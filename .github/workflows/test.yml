@@ -8,14 +8,13 @@ jobs:
     name: "Check Markdown files"
     steps:
     - uses: actions/checkout@master
-    - uses: suisei-cn/actions-download-file@v1
-      id: downloadfile  # Remember to give an ID if you need the output filename
-      name: Download the file
-      with:
-        url: "https://github.com/qir-alliance/.github/blob/main/workflow-templates/utils/md_lint_config.yml"
-        target: assets/
     - run: |
-        Get-ChildItem (Join-Path "workflow-templates" "utils" "problem-matchers") `
+        wget https://github.com/qir-alliance/.github/archive/refs/heads/main.zip -O clone.zip `
+        && unzip clone.zip && mv .github-main out && rm clone.zip `
+        && mv out/workflow-templates/utils/ utils && rm -r out
+      shell: bash
+    - run: |
+        Get-ChildItem (Join-Path "utils" "problem-matchers") `
           | ForEach-Object {
             Write-Host "Adding matcher $_...";
             Write-Host "::add-matcher::$_";
@@ -26,7 +25,7 @@ jobs:
       uses: nosborn/github-action-markdown-cli@v2.0.0
       with:
         files: .
-        config_file: 'assets/md_lint_config.yml'
+        config_file: 'utils/md_lint_config.yml'
     - name: Markdown link check
       # cspell:words gaurav
       uses: gaurav-nelson/github-action-markdown-link-check@v1
