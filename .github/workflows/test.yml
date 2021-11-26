@@ -14,3 +14,27 @@ jobs:
           url: "https://github.com/qir-alliance/.github/blob/main/workflow-templates/utils/md_lint_config.yml"
           target: .github/workflows/
 
+  check-markdown:
+    runs-on: ubuntu-latest
+    name: "Check Markdown files"
+    steps:
+    - uses: actions/checkout@master
+    - run: |
+        Get-ChildItem (Join-Path "workflow-templates" "utils" "problem-matchers") `
+          | ForEach-Object {
+            Write-Host "Adding matcher $_...";
+            Write-Host "::add-matcher::$_";
+          }
+      shell: pwsh
+    - name: markdownlint-cli
+      # cspell:words nosborn
+      uses: nosborn/github-action-markdown-cli@v2.0.0
+      with:
+        files: .
+        config_file: '.github/workflows/md_lint_config.yml'
+    - name: Markdown link check
+      # cspell:words gaurav
+      uses: gaurav-nelson/github-action-markdown-link-check@v1
+      with:
+        use-verbose-mode: 'yes'
+      if: ${{ success() || failure() }}
