@@ -9,9 +9,9 @@ jobs:
     steps:
     - uses: actions/checkout@master
     - run: |
-        wget https://github.com/qir-alliance/.github/archive/refs/heads/main.zip -O clone.zip `
-        && unzip clone.zip && mv .github-main out && rm clone.zip `
-        && mv out/workflow-templates/utils/ utils && rm -r out
+        wget https://github.com/qir-alliance/.github/archive/refs/heads/main.zip -O clone.zip &&
+        unzip clone.zip && mv .github-main out && rm clone.zip &&
+        mv out/workflow-templates/utils/ utils && rm -r out
       shell: bash
     - run: |
         Get-ChildItem (Join-Path "utils" "problem-matchers") `
