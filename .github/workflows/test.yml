@@ -1,0 +1,19 @@
+on:
+  pull_request:
+    branches:
+    - $default-branch
+
+name: "Check spelling, linting and links"
+
+jobs:
+  download-config:
+    runs-on: ubuntu-latest
+    name: "Downloading config files"
+    steps:
+      - uses: suisei-cn/actions-download-file@v1
+        id: downloadfile  # Remember to give an ID if you need the output filename
+        name: Download the file
+        with:
+          url: "https://github.com/qir-alliance/.github/blob/main/workflow-templates/utils/md_lint_config.yml"
+          target: .github/workflows/
+
