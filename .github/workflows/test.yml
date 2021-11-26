@@ -1,7 +1,4 @@
-on:
-  pull_request:
-    branches:
-    - $default-branch
+on: workflow_dispatch
 
 name: "Check spelling, linting and links"
 
