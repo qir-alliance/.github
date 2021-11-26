@@ -1,11 +1,15 @@
-on: workflow_dispatch
+on:
+  workflow_dispatch:
+  pull_request:
+    branches:
+    - main
 
 name: "Check spelling, linting and links"
 
 jobs:
   check-markdown:
     runs-on: ubuntu-latest
-    name: "Check Markdown files"
+    name: "Check spelling, linting and links"
     steps:
     - uses: actions/checkout@master
     - run: |
@@ -32,3 +36,14 @@ jobs:
       with:
         use-verbose-mode: 'yes'
       if: ${{ success() || failure() }}
+    - name: "Check spelling in changed files"
+      uses: actions/checkout@v2
+      # cspell:words streetsidesoftware
+      uses: streetsidesoftware/cspell-action@v1.2.4
+      with:
+        inline: warning
+        # Only warn on spelling errors, since there's likely a lot of false
+        # positives with terminology in quantum computing.
+        strict: false
+        incremental_files_only: true
+        config: 'utils/spelling_allowlist.json'
