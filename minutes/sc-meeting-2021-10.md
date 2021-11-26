@@ -4,11 +4,23 @@ Attendance: Alex Chernoguzov, Alex Mccaskey, Andrei Petrenko, Bettina Heim,
 Fabrice Franchon, Kalan Snyder, Thien Nguyen, Tom Lubinski, Pauline Jordan
 (Guest), Seth Newberry (Guest), Scott Nicholas (Guest)
 
+## Meeting agenda
+
+- Recap of previous decisions
+- QIR logo options
+- GitHub organization and repository names
+- Date of press release to announce formation of QIR Alliance
+- Nominate and vote for Chair position
+- Steering Committee meetings
+  - Cadence
+  - Open or Close to non-steering committee members?
+- Next steps
+
 ## Recap of previous decisions
 
 - Use MIT as the license for code repos
 - Quantum Intermediate Representation Alliance as the name of the new entity
-- Project Charter and Working Group Scope (see slide)
+- Project Charter and Working Group Scope
 
 ## Key decisions (all voted unanimously)
 
