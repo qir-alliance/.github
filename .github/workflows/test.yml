@@ -3,22 +3,17 @@ on: workflow_dispatch
 name: "Check spelling, linting and links"
 
 jobs:
-  download-config:
-    runs-on: ubuntu-latest
-    name: "Downloading config files"
-    steps:
-      - uses: suisei-cn/actions-download-file@v1
-        id: downloadfile  # Remember to give an ID if you need the output filename
-        name: Download the file
-        with:
-          url: "https://github.com/qir-alliance/.github/blob/main/workflow-templates/utils/md_lint_config.yml"
-          target: .github/workflows/
-
   check-markdown:
     runs-on: ubuntu-latest
     name: "Check Markdown files"
     steps:
     - uses: actions/checkout@master
+    - uses: suisei-cn/actions-download-file@v1
+      id: downloadfile  # Remember to give an ID if you need the output filename
+      name: Download the file
+      with:
+        url: "https://github.com/qir-alliance/.github/blob/main/workflow-templates/utils/md_lint_config.yml"
+        target: .github/workflows/
     - run: |
         Get-ChildItem (Join-Path "workflow-templates" "utils" "problem-matchers") `
           | ForEach-Object {
@@ -31,7 +26,7 @@ jobs:
       uses: nosborn/github-action-markdown-cli@v2.0.0
       with:
         files: .
-        config_file: '.github/workflows/md_lint_config.yml'
+        config_file: "${{ steps.downloadfile.outputs.filename }}"
     - name: Markdown link check
       # cspell:words gaurav
       uses: gaurav-nelson/github-action-markdown-link-check@v1
