@@ -36,8 +36,9 @@ jobs:
       with:
         use-verbose-mode: 'yes'
       if: ${{ success() || failure() }}
-    - name: "Check spelling in changed files"
+    - name: "Checkout"
       uses: actions/checkout@v2
+    - name: "Check spelling in changed files"
       # cspell:words streetsidesoftware
       uses: streetsidesoftware/cspell-action@v1.2.4
       with:
