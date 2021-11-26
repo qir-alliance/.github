@@ -1,0 +1,5 @@
+{
+  "name": "QIR Alliance General PR Checks",
+  "description": "Workflow template to check spelling, linting and links.",
+  "iconName": "workflow"
+}
