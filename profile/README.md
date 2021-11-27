@@ -23,7 +23,7 @@ Quantum Circuits Inc., and Rigetti Computing (in alphabetical order).
 ### Meetings
 
 The steering committee meets once a month. The meetings are not open to the
-public at this time, but minutes are published [here](../minutes). The steering
+public at this time, but minutes are published [here](https://github.com/qir-alliance/.github/tree/main/minutes). The steering
 committee may invite domain experts and repository maintainers to join the
 discussions. Please reach out to
 [qiralliance@mail.com](mailto:qiralliance@mail.com) if you would like to propose
