@@ -31,6 +31,3 @@ no-inline-html:
 # Allow exclamation mark and question marks in headings
 no-emphasis-as-heading:
   punctuation: ".,;:。，；：！"
-
-# First line in a file should be a top-level heading
-first-line-heading: false

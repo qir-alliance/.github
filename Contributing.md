@@ -46,17 +46,17 @@ the same general lifecycle. Differences are noted below.
 
 - **Triage**
 
-    - The Editor in charge of triaging will apply the proper labels for the issue.
-    This includes labels for priority, type, and metadata.
-    - (If needed) Clean up the title to succinctly and clearly state the issue. Also
-    ensure that proposals are prefaced with "Proposal".
+  - The Editor in charge of triaging will apply the proper labels for the issue.
+This includes labels for priority, type, and metadata.
+  - (If needed) Clean up the title to succinctly and clearly state the issue. Also
+ensure that proposals are prefaced with "Proposal".
 
 - **Discussion**
 
-    - "Spec Change" issues should be connected to the pull request that resolves it.
-    - Whoever is working on a "Spec Change" issue should either assign the issue to
+  - "Spec Change" issues should be connected to the pull request that resolves it.
+  - Whoever is working on a "Spec Change" issue should either assign the issue to
     themselves or make a comment in the issue saying that they are taking it.
-    - "Proposal" and "Discussion" issues should stay open until resolved.
+  - "Proposal" and "Discussion" issues should stay open until resolved.
 
 - **Issue Closure**
 
@@ -81,9 +81,8 @@ Requests.
 - The Working Group uses pull requests to track changes. To submit a change to the
 specification:
 
-    1) Fork the Repo, modify the Specification to address the Issue
-    2) Submit a Pull Request
-
+  1) Fork the Repo, modify the Specification to address the Issue
+  2) Submit a Pull Request
 
 #### 2.2. Triage
 
