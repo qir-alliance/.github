@@ -1,6 +1,8 @@
-![QIR
-Alliance](https://github.com/qir-alliance/.github/blob/main/.images/header1.png)
-# Welcome to the QIR Alliance!
+<h1><img
+  src="https://github.com/qir-alliance/.github/blob/main/.images/header1.png"
+/><br/>
+Welcome to the QIR Alliance!
+</h1>
 
 The QIR Alliance is a joint effort to develop a forward-looking quantum
 intermediate representation with the goal to enable full interoperability within
@@ -15,6 +17,7 @@ systems.
 
 ![QIR
 Alliance](https://github.com/qir-alliance/.github/blob/main/.images/header2.png)
+
 ## Steering Committee
 
 Steering members include Honeywell, Microsoft, Oak Ridge National Laboratory,
@@ -23,7 +26,8 @@ Quantum Circuits Inc., and Rigetti Computing (in alphabetical order).
 ### Meetings
 
 The steering committee meets once a month. The meetings are not open to the
-public at this time, but minutes are published [here](https://github.com/qir-alliance/.github/tree/main/minutes). The steering
+public at this time, but minutes are published
+[here](https://github.com/qir-alliance/.github/tree/main/minutes). The steering
 committee may invite domain experts and repository maintainers to join the
 discussions. Please reach out to
 [qiralliance@mail.com](mailto:qiralliance@mail.com) if you would like to propose
@@ -32,6 +36,7 @@ expertise.
 
 ![QIR
 Alliance](https://github.com/qir-alliance/.github/blob/main/.images/header2.png)
+
 ## Contributing
 
 Whether you are curious about our work or already deeply engaged, the following
@@ -64,8 +69,9 @@ requirements for code repositories under the QIR Alliance are the following:
   to contact the maintainers should be shared with the steering committee.
 - The repository is either actively maintained by the maintainers or the
   repository is archived.
-- The code of conduct aligns in spirit with the code of conduct of the broader
-  org.
+- The Code of Conduct aligns in spirit with the [Code of
+  Conduct](https://github.com/qir-alliance/.github/blob/main/Code_of_Conduct.md)
+  of the broader org.
 - The project should be related in content to the goals and scope of the QIR
   Alliance as outlined above.
 - All code should be licensed under [MIT license](https://mit-license.org/), and
