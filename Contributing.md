@@ -1,9 +1,9 @@
-# Community Specification Contribution Policy 1.0
+# QIR Alliance Contribution Policy 1.0
 
 This document provides the contribution policy for specifications and other
-documents developed using the Community Specification process in a repository
-(each a “Working Group”).  Additional or alternate contribution policies may be
-adopted and documented by the Working Group.
+documents developed using the QIR Alliance Specification development process in
+a repository (each a “Working Group”).  Additional or alternate contribution
+policies may be adopted and documented by the Working Group.
 
 ## 1. Contribution Guidelines
 
@@ -12,34 +12,32 @@ section outlines the process for merging contributions to the specification
 
 ### 1.1. Issues
 
-Issues are used as the primary method for tracking anything
-to do with this specification Working Group.
+Issues are used as the primary method for tracking anything to do with this
+specification Working Group.
 
 #### 1.1.1. Issue Types
 
-There are three types of issues (each with their own
-corresponding label):
+There are three types of issues (each with their own corresponding label):
 
 ##### 1.1.1.1. Discussion
 
-These are support or functionality inquiries that we
-want to have a record of for future reference. Depending on the discussion,
-these can turn into "Spec Change" issues.
+These are support or functionality inquiries that we want to have a record of
+for future reference. Depending on the discussion, these can turn into "Spec
+Change" issues.
 
 ##### 1.1.1.2. Proposal
 
-Used for items that propose a new ideas or functionality
-that require a larger discussion. This allows for feedback from others before a
-specification change is actually written. All issues that are proposals should
-both have a label and an issue title of "Proposal: [the rest of the title]." A
-proposal can become a "Spec Change" and does not require a milestone.
+Used for items that propose a new ideas or functionality that require a larger
+discussion. This allows for feedback from others before a specification change
+is actually written. All issues that are proposals should both have a label and
+an issue title of "Proposal: [the rest of the title]." A proposal can become a
+"Spec Change" and does not require a milestone.
 
 ##### 1.1.1.3. Spec Change
 
-These track specific spec changes and ideas until
-they are complete. They can evolve from "Proposal" and "Discussion" items, or
-can be submitted individually depending on the size. Each spec change should be
-placed into a milestone.
+These track specific spec changes and ideas until they are complete. They can
+evolve from "Proposal" and "Discussion" items, or can be submitted individually
+depending on the size. Each spec change should be placed into a milestone.
 
 ## 2. Issue Lifecycle
 
@@ -122,9 +120,9 @@ reviewers into their approval process.
 
 ### 4.4. Responsive
 
-Pull request owner should try to be responsive to comments
-by answering questions or changing text. Once all comments have been addressed,
-the pull request is ready to be merged.
+Pull request owner should try to be responsive to comments by answering
+questions or changing text. Once all comments have been addressed, the pull
+request is ready to be merged.
 
 ### 4.5. Merge or Close
 

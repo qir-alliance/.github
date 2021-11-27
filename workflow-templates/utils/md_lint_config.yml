@@ -1,3 +1,7 @@
+# For more info on markdown lint configurations, see also
+# https://github.com/DavidAnson/markdownlint/blob/main/schema/.markdownlint.yaml
+# https://github.com/markdownlint/markdownlint/blob/master/docs/RULES.md
+
 default: true
 line-length:
   line_length: 80
@@ -25,5 +29,8 @@ no-inline-html:
   allowed_elements: [br]
 
 # Allow exclamation mark and question marks in headings
-MD026:
+no-emphasis-as-heading:
   punctuation: ".,;:。，；：！"
+
+# First line in a file should be a top-level heading
+first-line-heading: false
