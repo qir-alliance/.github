@@ -1,1 +1,84 @@
 # Welcome to the QIR Alliance!
+
+The QIR Alliance is a joint effort to develop a forward-looking quantum
+intermediate representation with the goal to enable full interoperability within
+the quantum ecosystem and reduce development effort from all parties.
+
+We strive to develop a holistic solution that permits to take full advantage of
+unique and distinct capabilities in the landscape of heterogenous quantum
+processors. We are thrilled to be collaborating closely with the quantum
+community to design and implement the necessary compiler technology to
+accelerate advances in quantum programming language design and execution
+systems.
+
+## Steering Committee
+
+Steering members include Honeywell, Microsoft, Oak Ridge National Laboratory,
+Quantum Circuits Inc., and Rigetti Computing (in alphabetical order).
+
+### Meetings
+
+The steering committee meets once a month. The meetings are not open to the
+public at this time, but minutes are published [here](../minutes). The steering
+committee may invite domain experts and repository maintainers to join the
+discussions. Please reach out to
+[qiralliance@mail.com](mailto:qiralliance@mail.com) if you would like to propose
+a topic for consideration and/or would like to volunteer your time and
+expertise.
+
+## Contributing
+
+Whether you are curious about our work or already deeply engaged, the following
+repositories may be interesting to you:
+
+- [**qir-spec**](https://github.com/qir-alliance/qir-spec): QIR specification
+  defining how to represent quantum programs within the LLVM IR
+- [**pyqir**](https://github.com/qir-alliance/pyqir): Python bindings for
+  emitting, loading, and executing QIR.
+- [**qat**](https://github.com/qir-alliance/qat): QIR compiler tools and
+  optimization passes for targeting QIR to different hardware backends
+
+We refer to the guidelines in the respective repository for contributions to
+existing repositories.
+
+We welcome **new repositories** under the QIR Alliance from both members and
+non-members of the organization. If you feel your repository would fit in well
+under this org, please reach out to
+[qiralliance@mail.com](mailto:qiralliance@mail.com). The steering committee will
+will approve and initiate the creation of new repositories, and facilitate the
+migration of existing ones.
+
+We largely leave it up to the repository maintainers to define the rules and
+guidelines for their repositories, including legal matters such as a
+[Contributor License Agreement
+(CLA)](https://en.wikipedia.org/wiki/Contributor_License_Agreement). The only
+requirements for code repositories under the QIR Alliance are the following:
+
+- At least two maintainers need to be designated for the repository, and a way
+  to contact the maintainers should be shared with the steering committee.
+- The repository is either actively maintained by the maintainers or the
+  repository is archived.
+- The code of conduct aligns in spirit with the code of conduct of the broader
+  org.
+- The project should be related in content to the goals and scope of the QIR
+  Alliance as outlined above.
+- All code should be licensed under [MIT license](https://mit-license.org/), and
+  contributors to the repository must accept a CLA defined by the maintainers.
+
+The QIR Alliance will reach out to the maintainers if a repository no longer
+satisfies these criteria to reach an agreement and resolve the situation. If the
+maintainers cannot be reached or are unable to take action, the QIR
+Alliance reserves the right to [archive the
+repository](https://docs.github.com/en/repositories/archiving-a-github-repository/archiving-repositories).
+
+## Inquiries
+
+For any inquiries about the QIR Alliance, our work and upcoming opportunities,
+please contact [qiralliance@mail.com](mailto:qiralliance@mail.com).
+
+## Logo
+
+Logos and icons of the QIR Alliance and associated efforts can be downloaded
+[here](../logo/README.md).
+
+![QIR Alliance](../.images/footer.png)
