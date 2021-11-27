@@ -68,8 +68,9 @@ requirements for code repositories under the QIR Alliance are the following:
   to contact the maintainers should be shared with the steering committee.
 - The repository is either actively maintained by the maintainers or the
   repository is archived.
-- The code of conduct aligns in spirit with the code of conduct of the broader
-  org.
+- The Code of Conduct aligns in spirit with the [Code of
+  Conduct](https://github.com/qir-alliance/.github/blob/main/Code_of_Conduct.md)
+  of the broader org.
 - The project should be related in content to the goals and scope of the QIR
   Alliance as outlined above.
 - All code should be licensed under [MIT license](https://mit-license.org/), and
