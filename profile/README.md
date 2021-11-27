@@ -1,3 +1,5 @@
+![QIR
+Alliance](https://github.com/qir-alliance/.github/blob/main/.images/header1.png)
 # Welcome to the QIR Alliance!
 
 The QIR Alliance is a joint effort to develop a forward-looking quantum
@@ -11,6 +13,8 @@ community to design and implement the necessary compiler technology to
 accelerate advances in quantum programming language design and execution
 systems.
 
+![QIR
+Alliance](https://github.com/qir-alliance/.github/blob/main/.images/header2.png)
 ## Steering Committee
 
 Steering members include Honeywell, Microsoft, Oak Ridge National Laboratory,
@@ -26,6 +30,8 @@ discussions. Please reach out to
 a topic for consideration and/or would like to volunteer your time and
 expertise.
 
+![QIR
+Alliance](https://github.com/qir-alliance/.github/blob/main/.images/header2.png)
 ## Contributing
 
 Whether you are curious about our work or already deeply engaged, the following
@@ -71,15 +77,21 @@ maintainers cannot be reached or are unable to take action, the QIR Alliance
 reserves the right to [archive the
 repository](https://docs.github.com/en/repositories/archiving-a-github-repository/archiving-repositories).
 
+![QIR
+Alliance](https://github.com/qir-alliance/.github/blob/main/.images/header2.png)
+
 ## Inquiries
 
 For any inquiries about the QIR Alliance, our work and upcoming opportunities,
 please contact [qiralliance@mail.com](mailto:qiralliance@mail.com).
 
+![QIR
+Alliance](https://github.com/qir-alliance/.github/blob/main/.images/header2.png)
+
 ## Logo
 
 Logos and icons of the QIR Alliance and associated efforts can be downloaded
-[here](../logo/README.md).
+[here](https://github.com/qir-alliance/.github/blob/main/logo/README.md).
 
 ![QIR
 Alliance](https://github.com/qir-alliance/.github/blob/main/.images/footer.png)
