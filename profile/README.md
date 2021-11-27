@@ -91,7 +91,7 @@ Alliance](https://github.com/qir-alliance/.github/blob/main/.images/header2.png)
 ## Logo
 
 Logos and icons of the QIR Alliance and associated efforts can be downloaded
-[here](https://github.com/qir-alliance/.github/blob/main/logo/README.md).
+[here](https://github.com/qir-alliance/.github/tree/main/logo).
 
 ![QIR
 Alliance](https://github.com/qir-alliance/.github/blob/main/.images/footer.png)
