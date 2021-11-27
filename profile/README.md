@@ -67,8 +67,8 @@ requirements for code repositories under the QIR Alliance are the following:
 
 The QIR Alliance will reach out to the maintainers if a repository no longer
 satisfies these criteria to reach an agreement and resolve the situation. If the
-maintainers cannot be reached or are unable to take action, the QIR
-Alliance reserves the right to [archive the
+maintainers cannot be reached or are unable to take action, the QIR Alliance
+reserves the right to [archive the
 repository](https://docs.github.com/en/repositories/archiving-a-github-repository/archiving-repositories).
 
 ## Inquiries
@@ -81,4 +81,5 @@ please contact [qiralliance@mail.com](mailto:qiralliance@mail.com).
 Logos and icons of the QIR Alliance and associated efforts can be downloaded
 [here](../logo/README.md).
 
-![QIR Alliance](../.images/footer.png)
+![QIR
+Alliance](https://github.com/qir-alliance/.github/blob/main/.images/footer.png)
