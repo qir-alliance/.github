@@ -1,6 +1,7 @@
-<h1><img
+<h1>
+<sup><img
   src="https://github.com/qir-alliance/.github/blob/main/.images/header1.png"
-/><br/>
+/></sup><br/>
 Welcome to the QIR Alliance!
 </h1>
 
