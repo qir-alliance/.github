@@ -28,8 +28,8 @@ Kalan Snyder, Thien Nguyen, Tom Lubinski, Travis Humble, Seth Newberry (Guest)
   they are not members.
   - Alex McCaskey to be invited to subsequent meetings
   - Communication:<br/>
-    > *"The steering committee meets once a month. The meetings are not open
-    to the public at this time, but minutes will be published on [link]. The
+    > *"The steering committee meets once a month. The meetings are not open to
+    the public at this time, but minutes will be published on [link]. The
     steering committee may invite domain experts and repository maintainers to
     join the discussions. Please reach out to [email] if you would like to
     propose a topic for consideration and/or would like to volunteer your time
@@ -62,24 +62,24 @@ Kalan Snyder, Thien Nguyen, Tom Lubinski, Travis Humble, Seth Newberry (Guest)
     whether the minimum requirements as outlined below are satisfied. The
     steering committee may also solicit such contributions.* <br/>
     >*For code repositories under the QIR Alliance,*
-    >  - *At least two maintainers need to be designated for the repository,
-            and a way to contact the maintainers should be shared with the
-            steering committee.*
-    >  - *The repository is either actively maintained by the maintainers or
-            the repository is archived.*
-    >  - *The code of conduct aligns in spirit with the code of conduct of the
+    >
+    > - *At least two maintainers need to be designated for the repository, and
+            a way to contact the maintainers should be shared with the steering
+            committee.*
+    > - *The repository is either actively maintained by the maintainers or the
+            repository is archived.*
+    > - *The code of conduct aligns in spirit with the code of conduct of the
             broader org.*
-    >  - *The project should be related in content to the scope defined for
-            the QIR Alliance.*
-    >  - *All code should be licensed under MIT license, and contributors to
-            the repository must accept a CLA defined by the maintainers.*
-            <br/><br/>
-
+    > - *The project should be related in content to the scope defined for the
+            QIR Alliance.*
+    > - *All code should be licensed under MIT license, and contributors to the
+            repository must accept a CLA defined by the maintainers.* <br/><br/>
+    >
     > *The QIR Alliance will reach out to the maintainers if a repository no
       longer satisfies these criteria to reach an agreement and resolve the
-      situation. If the maintainers cannot be reached or are unable or
-      unwilling to take action, the QIR Alliance reserves the right to archive
-      the repository."*
+      situation. If the maintainers cannot be reached or are unable or unwilling
+      to take action, the QIR Alliance reserves the right to archive the
+      repository."*
 
 ## Additional notes
 

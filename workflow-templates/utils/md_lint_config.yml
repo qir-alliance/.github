@@ -23,3 +23,7 @@ no-duplicate-heading:
 # Allow selective inline markdown
 no-inline-html:
   allowed_elements: [br]
+
+# Allow exclamation mark and question marks in headings
+MD026:
+  punctuation: ".,;:。，；：！"
