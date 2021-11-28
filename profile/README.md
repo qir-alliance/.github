@@ -17,12 +17,12 @@ systems.
 ![QIR
 Alliance](https://github.com/qir-alliance/.github/blob/main/.images/header2.png)
 
-## Steering Committee
+### Steering Committee
 
 Steering members include Honeywell, Microsoft, Oak Ridge National Laboratory,
 Quantum Circuits Inc., and Rigetti Computing (in alphabetical order).
 
-### Meetings
+#### Meetings
 
 The steering committee meets once a month. The meetings are not open to the
 public at this time, but minutes are published
@@ -36,7 +36,7 @@ expertise.
 ![QIR
 Alliance](https://github.com/qir-alliance/.github/blob/main/.images/header2.png)
 
-## Contributing
+### Contributing
 
 Whether you are curious about our work or already deeply engaged, the following
 repositories may be interesting to you:
@@ -85,7 +85,7 @@ repository](https://docs.github.com/en/repositories/archiving-a-github-repositor
 ![QIR
 Alliance](https://github.com/qir-alliance/.github/blob/main/.images/header2.png)
 
-## Inquiries
+### Inquiries
 
 For any inquiries about the QIR Alliance, our work and upcoming opportunities,
 please contact [qiralliance@mail.com](mailto:qiralliance@mail.com).
@@ -93,7 +93,7 @@ please contact [qiralliance@mail.com](mailto:qiralliance@mail.com).
 ![QIR
 Alliance](https://github.com/qir-alliance/.github/blob/main/.images/header2.png)
 
-## Logo
+### Logo
 
 Logos and icons of the QIR Alliance and associated efforts can be downloaded
 [here](https://github.com/qir-alliance/.github/tree/main/logo).
