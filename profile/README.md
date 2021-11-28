@@ -1,9 +1,7 @@
-<h1>
-<img
-  src="../.images/header1.png"
-/><sub><br/>
-Welcome to the QIR Alliance!
-</sub></h1>
+<h1><img
+  src="https://github.com/qir-alliance/.github/blob/main/.images/header1.png"
+/><sub><br/>Welcome to the QIR Alliance!</sub>
+</h1>
 
 The QIR Alliance is a joint effort to develop a forward-looking quantum
 intermediate representation with the goal to enable full interoperability within
