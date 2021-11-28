@@ -43,9 +43,11 @@ repositories may be interesting to you:
 
 - [**qir-spec**](https://github.com/qir-alliance/qir-spec): QIR specification
   defining how to represent quantum programs within the LLVM IR
-- [**pyqir**](https://github.com/qir-alliance/pyqir): Python bindings for
-  emitting, loading, and executing QIR.
-- [**qat**](https://github.com/qir-alliance/qat): QIR compiler tools and
+- [**pyqir**](https://github.com/qir-alliance/pyqir)
+  [[examples](https://github.com/qir-alliance/pyqir/tree/main/examples)]: Python
+  bindings for emitting, loading, and executing QIR.
+- [**qat**](https://github.com/qir-alliance/qat)
+  [[docs](https://qir-alliance.github.io/qat/)]: QIR compiler tools and
   optimization passes for targeting QIR to different hardware backends
 
 We refer to the guidelines in the respective repository for contributions to
