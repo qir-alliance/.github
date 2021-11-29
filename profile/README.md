@@ -41,7 +41,7 @@ Alliance](https://github.com/qir-alliance/.github/blob/main/.images/header2.png)
 ### Contributing
 
 Whether you are curious about our work or already deeply engaged, the following
-repositories may be interesting to you:
+**existing repositories** may be interesting to you:
 
 - [**qir-spec**](https://github.com/qir-alliance/qir-spec): QIR specification
   defining how to represent quantum programs within the LLVM IR
