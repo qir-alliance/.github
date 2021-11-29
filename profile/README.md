@@ -20,7 +20,9 @@ Alliance](https://github.com/qir-alliance/.github/blob/main/.images/header2.png)
 ### Steering Committee
 
 Steering members include Honeywell, Microsoft, Oak Ridge National Laboratory,
-Quantum Circuits Inc., and Rigetti Computing (in alphabetical order).
+Quantum Circuits Inc., and Rigetti Computing (in alphabetical order). For more
+information about the project organization, we refer to [this
+document](https://github.com/qir-alliance/.github/blob/main/Project_Organization.md).
 
 #### Meetings
 
@@ -58,7 +60,8 @@ non-members of the organization. If you feel your repository would fit in well
 under this org, please reach out to
 [qiralliance@mail.com](mailto:qiralliance@mail.com). The steering committee will
 will approve and initiate the creation of new repositories, and facilitate the
-migration of existing ones.
+[migration](https://docs.github.com/en/repositories/creating-and-managing-repositories/transferring-a-repository#transferring-a-repository-owned-by-your-user-account)
+of existing ones.
 
 We largely leave it up to the repository maintainers to define the rules and
 guidelines for their repositories, including legal matters such as a
