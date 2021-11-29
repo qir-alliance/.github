@@ -112,10 +112,10 @@ customers or any other topic that should not be discussed among competitors.
 
 ## 8. Code of Conduct
 
-The Project has adopted the terms of the Community Covenant 1.0, available at
-https://communitycovenant.net/version/1/0/. To report an issue or concern under
-this Code of Conduct, contact the Project Chairperson or the Joint Development
-Foundation General Manager.
+The Project has adopted the terms of the Code of Conduct available
+[here](https://github.com/qir-alliance/.github/blob/main/Code_of_Conduct.md). To
+report an issue or concern under this Code of Conduct, contact the Project
+Chairperson or the Joint Development Foundation General Manager.
 
 ## 9. Use of Trademarks
 
@@ -144,4 +144,3 @@ DAMAGES OF ANY CHARACTER FROM ANY CAUSES OF ACTION OF ANY KIND WITH RESPECT TO
 THIS DELIVERABLE OR ITS GOVERNING AGREEMENT, WHETHER BASED ON BREACH OF
 CONTRACT, TORT (INCLUDING NEGLIGENCE), OR OTHERWISE, AND WHETHER OR NOT THE
 OTHER MEMBER HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.”
-
