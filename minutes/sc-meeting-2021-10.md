@@ -21,6 +21,7 @@ Fabrice Franchon, Kalan Snyder, Thien Nguyen, Tom Lubinski, Pauline Jordan
 - Use MIT as the license for code repos
 - Quantum Intermediate Representation Alliance as the name of the new entity
 - Project Charter and Working Group Scope
+- Guidelines for on adding new Steering Committee Members
 
 ## Key decisions (all voted unanimously)
 
