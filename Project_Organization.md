@@ -19,24 +19,20 @@ regulatory guidelines. Projects are otherwise independent.
 Steering Members are organizations that sign a legal agreement capturing the
 ideas summarized in the documents on this repository. They may participate in
 each Working Group and the Steering Committee. The Steering Member designates an
-individual to represent the organization in Steering Committee meetings. New
-Steering Members are Approved by the current Steering Committee based on the
-following guidelines:
+individual to represent the organization in Steering Committee meetings. 
+The current Steering Committee votes on accepting new Steering Members 
+taking the following factors into consideration, among other aspects:
 
 - Organization has demonstrated a sustained interest and commitment in
   standardizing a quantum intermediate representation.
 - Organization has a track record of public efforts and contributions that
-  benefit in the quantum ecosystem.
+  benefit the quantum ecosystem.
 - Organization has an active implementation effort to contribute to and/or
   integrate with the standard(s) developed under the QIR Alliance.
 - Organization has demonstrated good faith in advancing quantum computing.
 - Organization will enhance Steering Committee geographic and/or business model
   diversity.
 - Availability of seat(s) in the steering committee.
-
-The Steering Committee may update these guidelines by a Supermajority vote. Any
-updates will not apply to request for joining the Steering Committee that were
-received prior to the Approval of the update.
 
 ### 2.2. General
 
