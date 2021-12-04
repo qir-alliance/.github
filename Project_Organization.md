@@ -19,8 +19,8 @@ regulatory guidelines. Projects are otherwise independent.
 Steering Members are organizations that sign a legal agreement capturing the
 ideas summarized in the documents on this repository. They may participate in
 each Working Group and the Steering Committee. The Steering Member designates an
-individual to represent the organization in Steering Committee meetings. 
-The current Steering Committee votes on accepting new Steering Members 
+individual to represent the organization in Steering Committee meetings.
+The current Steering Committee votes on accepting new Steering Members
 taking the following factors into consideration, among other aspects:
 
 - Organization has demonstrated a sustained interest and commitment in
