@@ -48,6 +48,11 @@ Whether you are curious about our work or already deeply engaged, the following
 - [**pyqir**](https://github.com/qir-alliance/pyqir)
   [[examples](https://github.com/qir-alliance/pyqir/tree/main/examples)]: Python
   bindings for emitting, loading, and executing QIR.
+- [**qcor**](https://github.com/qir-alliance/qcor)
+  [[examples](https://github.com/qir-alliance/qcor/tree/master/examples),
+  [docs](https://aide-qc.github.io/deploy/lang_spec/)]:
+  C++ compiler for heterogeneous quantum-classical computing using QIR,
+  including the XACC runtime
 - [**qat**](https://github.com/qir-alliance/qat)
   [[docs](https://qir-alliance.github.io/qat/)]: QIR compiler tools and
   optimization passes for targeting QIR to different hardware backends
