@@ -48,7 +48,6 @@ Kaiser (Guest), Seth Newberry (Guest)
   - License and notes
   - Documentation and papers
 
-
 ## Follow-ups / Action items
 
 - Bettina to draft workstream template and workstream description for specifying
