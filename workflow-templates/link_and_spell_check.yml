@@ -35,6 +35,7 @@ jobs:
       uses: gaurav-nelson/github-action-markdown-link-check@v1
       with:
         use-verbose-mode: 'yes'
+        config-file: 'utils/mlc_config.json'
       if: ${{ success() || failure() }}
     - name: "Check spelling in changed files"
       # cspell:words streetsidesoftware
