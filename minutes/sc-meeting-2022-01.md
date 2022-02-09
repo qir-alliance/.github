@@ -27,18 +27,15 @@ Snyder, Tom Lubinski, Travis Humble
   - Runtime initialization/finalization and entry point definition
   - Discoverability and availability of materials and demos
 
-## Key decisions (all voted unanimously, one voting member absent)
-
-- Community forums:
-  - QIR channel on Unitary Fund Discord is a good venue to point people to
-  - Unitary Fund will set up community calls for QIR
-
 ## Follow-ups / Action items
 
+- Fabrice to set up meeting at an earlier time so that people from Europe can
+  join
 - Bettina to fix the typos pointed out in [spec issue
-  #5](https://github.com/qir-alliance/qir-spec/issues/5).
+  #5](https://github.com/qir-alliance/qir-spec/issues/5)
 - Alex M. to fill workstream description for extending the specification to
   include runtime initialization/finalization and entry point handling
+- Bettina to follow up regarding options for CLA bots
 
 ## Additional notes
 
