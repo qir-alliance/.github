@@ -44,7 +44,7 @@ Snyder, Tom Lubinski, Travis Humble
     creation
   - Draft for [Base-Profile
     workstream](../workstreams/Base_Profile_Workstream.md) definition; <br/>
-    to be discussed, refined and voted upon during the next weeks
+    to be discussed further, refined and voted upon during the next weeks
   - Workstream for runtime initialization/finalization and entry point
     definition to be discussed in the next SC meeting
 - A given QIR Profile can evolve over time through versioning.
