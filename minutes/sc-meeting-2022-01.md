@@ -47,7 +47,8 @@ Snyder, Tom Lubinski, Travis Humble
 - Workstreams:
   - [Template](../workstreams/Workstream_Creation_Template.md) for workstream
     creation
-  - Draft for [Base-Profile workstream]() definition; <br/>
+  - Draft for [Base-Profile
+    workstream](../workstreams/Base_Profile_Workstream.md) definition; <br/>
     to be discussed, refined and voted upon during the next weeks
   - Workstream for runtime initialization/finalization and entry point
     definition to be discussed in the next SC meeting
