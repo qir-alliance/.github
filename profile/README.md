@@ -120,7 +120,7 @@ interest for you:
   channel](https://discord.com/channels/764231928676089909/920935966586306631)
   on the [Unitary Fund](https://unitary.fund/) Discord
 - [QIR Alliance community
-  call](https://calendar.google.com/calendar/event?eid=NnJua2o0M2hqOGQyODZrdHAxYW82djg2Z2RfMjAyMjAyMDNUMTczMDAwWiBjX21ncWRxNmhqMmlzaTRkNmg0NjdrZnF2ZzYwQGc&ctz=America/Los_Angeles)
+  call](https://calendar.google.com/calendar/event?eid=NnJua2o0M2hqOGQyODZrdHAxYW82djg2Z2RfMjAyMjAyMDNUMTczMDAwWiBjX21ncWRxNmhqMmlzaTRkNmg0NjdrZnF2ZzYwQGc)
   every other week on Thursdays
 
 ![QIR
