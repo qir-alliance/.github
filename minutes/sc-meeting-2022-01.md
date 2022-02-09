@@ -33,8 +33,6 @@ Snyder, Tom Lubinski, Travis Humble
   join
 - Bettina to fix the typos pointed out in [spec issue
   #5](https://github.com/qir-alliance/qir-spec/issues/5)
-- Alex M. to fill workstream description for extending the specification to
-  include runtime initialization/finalization and entry point handling
 - Bettina to follow up regarding options for CLA bots
 
 ## Additional notes
