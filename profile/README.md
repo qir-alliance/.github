@@ -26,6 +26,7 @@ more information about how to get involved. Alternatively, please reach out to
 [qiralliance@mail.com](mailto:qiralliance@mail.com).
 
 Currently, creation of the following workstreams are being discussed:
+
 - Specification of a Base Profile that defines the minimal requirements to
   define and execute quantum programs [[workstream
   definition](../workstreams/Base_Profile_Workstream.md)]
@@ -71,8 +72,9 @@ Whether you are curious about our work or already deeply engaged, the following
   optimization passes for targeting QIR to different hardware backends
 
 We refer to the guidelines in the respective repository for contributions to
-existing repositories. Please also take a look at [community forums](#inquiries-and-community-forums) to learn
-more about QIR related projects and discussions.
+existing repositories. Please also take a look at [community
+forums](#inquiries-and-community-forums) to learn more about QIR related
+projects and discussions.
 
 We welcome **new repositories** under the QIR Alliance from both members and
 non-members of the organization. If you feel your repository would fit in well
@@ -116,6 +118,7 @@ please contact [qiralliance@mail.com](mailto:qiralliance@mail.com).
 
 If you are curious about our work, the following community forums may be of
 interest for you:
+
 - [QIR
   channel](https://discord.com/channels/764231928676089909/920935966586306631)
   on the [Unitary Fund](https://unitary.fund/) Discord
