@@ -52,7 +52,7 @@ Kaiser (Guest), Seth Newberry (Guest)
 
 - Bettina to draft workstream template and workstream description for specifying
   a Base Profile
-- Alex M. to draft workstream description for extending the specfication to
+- Alex M. to draft workstream description for extending the specification to
   include runtime initialization/finalization and entry point handling
 - Bettina and Tom will follow up with Celia Merzbacher (QED-C), action
   items related to creating comprehensive materials to be defined later

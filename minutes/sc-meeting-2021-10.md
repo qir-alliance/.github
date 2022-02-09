@@ -1,7 +1,7 @@
 # Steering Committee Meeting October 2021
 
 Attendance: Alex Chernoguzov, Alex Mccaskey, Andrei Petrenko, Bettina Heim,
-Fabrice Franchon, Kalan Snyder, Thien Nguyen, Tom Lubinski, Pauline Jordan
+Fabrice Frachon, Kalan Snyder, Thien Nguyen, Tom Lubinski, Pauline Jordan
 (Guest), Seth Newberry (Guest), Scott Nicholas (Guest)
 
 ## Meeting agenda
