@@ -39,8 +39,6 @@ Snyder, Tom Lubinski, Travis Humble
   #5](https://github.com/qir-alliance/qir-spec/issues/5).
 - Alex M. to fill workstream description for extending the specification to
   include runtime initialization/finalization and entry point handling
-- Bettina and Tom will follow up with Celia Merzbacher (QED-C), action items
-  related to creating comprehensive materials to be defined later
 
 ## Additional notes
 
