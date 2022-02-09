@@ -59,5 +59,3 @@ Snyder, Tom Lubinski, Travis Humble
   is defining and evolving a technical solution. The QIR Alliance can benefit
   from getting input/requirements from PIRQ and get validation of its work by
   PIRQ members.
-
-

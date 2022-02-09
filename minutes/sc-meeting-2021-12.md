@@ -66,4 +66,3 @@ Kaiser (Guest), Seth Newberry (Guest)
   - Minutes are published on the org repo and linked in the readme
   - Workflow template for spell checking
   - Pending: CLA bot
-
