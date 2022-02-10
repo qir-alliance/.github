@@ -46,7 +46,7 @@ Snyder, Tom Lubinski, Travis Humble
   - Workstream for runtime initialization/finalization and entry point
     definition to be discussed in the next SC meeting
 - A given QIR Profile can evolve over time through versioning.
-- PIRQ and QIR Alliance are very complimentary efforts and QED-C provides a
+- PIRQ and QIR Alliance are very complementary efforts and QED-C provides a
   valuable channel of communication. PIRQ is primarily focused on facilitating
   usage and improvement of existing technical solutions while the QIR Alliance
   is defining and evolving a technical solution. The QIR Alliance can benefit
