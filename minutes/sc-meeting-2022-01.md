@@ -49,6 +49,6 @@ Snyder, Tom Lubinski, Travis Humble
 - PIRQ and QIR Alliance are very complementary efforts and QED-C provides a
   valuable channel of communication. PIRQ is primarily focused on facilitating
   usage and improvement of existing technical solutions while the QIR Alliance
-  is defining and evolving a technical solution. The QIR Alliance can benefit
-  from getting input/requirements from PIRQ and get validation of its work by
-  PIRQ members.
+  is defining and evolving a specific technical solution. The QIR Alliance can
+  benefit from getting input/requirements from PIRQ and get validation of its
+  work by PIRQ members.
