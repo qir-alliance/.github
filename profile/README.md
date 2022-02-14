@@ -30,11 +30,11 @@ If you would like to suggest a new workstream, please take a look at the
 [workstream creation
 template](https://github.com/qir-alliance/.github/blob/main/workstreams/Workstream_Creation_Template.md),
 and reach out to [qiralliance@mail.com](mailto:qiralliance@mail.com) with your
-suggestion. <br/>
-Currently, creation of the following workstreams are being discussed:
+suggestion. Currently, creation of the following workstreams are being
+discussed:
 
 - Specification of a Base Profile that defines the minimal requirements to
-  define and execute quantum programs [[workstream
+  define and execute quantum programs <br/> [[workstream
   definition](https://github.com/qir-alliance/.github/blob/main/workstreams/Base_Profile_Workstream.md),
   [GitHub issue](https://github.com/qir-alliance/.github/issues/15)]
 
