@@ -20,20 +20,23 @@ Alliance](https://github.com/qir-alliance/.github/blob/main/.images/header2.png)
 ### News and Events
 
 Information about ongoing workstreams under the QIR Alliance and their
-organization, purpose, and meeting cadence can be found [here](../workstreams/).
-We refer to the corresponding workstream definition for more information about
-how to get involved. Alternatively, please reach out to
+organization, purpose, and meeting cadence can be found
+[here](https://github.com/qir-alliance/.github/blob/main/workstreams/). We refer
+to the corresponding workstream definition for more information about how to get
+involved. Alternatively, please reach out to
 [qiralliance@mail.com](mailto:qiralliance@mail.com).
 
 If you would like to suggest a new workstream, please take a look at the
-[workstream creation template](../workstreams/Workstream_Creation_Template.md),
+[workstream creation
+template](https://github.com/qir-alliance/.github/blob/main/workstreams/Workstream_Creation_Template.md),
 and reach out to [qiralliance@mail.com](mailto:qiralliance@mail.com) with your
 suggestion. <br/>
 Currently, creation of the following workstreams are being discussed:
 
 - Specification of a Base Profile that defines the minimal requirements to
   define and execute quantum programs [[workstream
-  definition](../workstreams/Base_Profile_Workstream.md)]
+  definition](https://github.com/qir-alliance/.github/blob/main/workstreams/Base_Profile_Workstream.md),
+  [GitHub issue](https://github.com/qir-alliance/.github/issues/15)]
 
 ### Steering Committee
 
