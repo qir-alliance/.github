@@ -35,7 +35,8 @@ Currently, creation of the following workstreams are being discussed:
 
 - Specification of a Base Profile that defines the minimal requirements to
   define and execute quantum programs [[workstream
-  definition](https://github.com/qir-alliance/.github/blob/main/workstreams/Base_Profile_Workstream.md)]
+  definition](https://github.com/qir-alliance/.github/blob/main/workstreams/Base_Profile_Workstream.md),
+  [GitHub issue](https://github.com/qir-alliance/.github/issues/15)]
 
 ### Steering Committee
 
