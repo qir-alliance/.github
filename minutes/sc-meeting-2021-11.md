@@ -1,6 +1,6 @@
 # Steering Committee Meeting November 2021
 
-Attendance: Alex Chernoguzov, Andrei Petrenko, Bettina Heim, Fabrice Franchon,
+Attendance: Alex Chernoguzov, Andrei Petrenko, Bettina Heim, Fabrice Frachon,
 Kalan Snyder, Thien Nguyen, Tom Lubinski, Travis Humble, Seth Newberry (Guest)
 
 ## Meeting agenda

@@ -17,6 +17,24 @@ systems.
 ![QIR
 Alliance](https://github.com/qir-alliance/.github/blob/main/.images/header2.png)
 
+### News and Events
+
+Information about ongoing workstreams under the QIR Alliance and their
+organization, purpose, and meeting cadence can be found [here](../workstreams/).
+We refer to the corresponding workstream definition for more information about
+how to get involved. Alternatively, please reach out to
+[qiralliance@mail.com](mailto:qiralliance@mail.com).
+
+If you would like to suggest a new workstream, please take a look at the
+[workstream creation template](../workstreams/Workstream_Creation_Template.md),
+and reach out to [qiralliance@mail.com](mailto:qiralliance@mail.com) with your
+suggestion. <br/>
+Currently, creation of the following workstreams are being discussed:
+
+- Specification of a Base Profile that defines the minimal requirements to
+  define and execute quantum programs [[workstream
+  definition](../workstreams/Base_Profile_Workstream.md)]
+
 ### Steering Committee
 
 Steering members include Microsoft, Oak Ridge National Laboratory, Quantinuum,
@@ -50,15 +68,17 @@ Whether you are curious about our work or already deeply engaged, the following
   bindings for emitting, loading, and executing QIR.
 - [**qcor**](https://github.com/qir-alliance/qcor)
   [[examples](https://github.com/qir-alliance/qcor/tree/master/examples),
-  [docs](https://aide-qc.github.io/deploy/lang_spec/)]:
-  C++ compiler for heterogeneous quantum-classical computing using QIR,
-  including the XACC runtime
+  [docs](https://aide-qc.github.io/deploy/lang_spec/)]: C++ compiler for
+  heterogeneous quantum-classical computing using QIR, including the XACC
+  runtime
 - [**qat**](https://github.com/qir-alliance/qat)
   [[docs](https://qir-alliance.github.io/qat/)]: QIR compiler tools and
   optimization passes for targeting QIR to different hardware backends
 
 We refer to the guidelines in the respective repository for contributions to
-existing repositories.
+existing repositories. Please also take a look at [community
+forums](#inquiries-and-community-forums) to learn more about QIR related
+projects and discussions.
 
 We welcome **new repositories** under the QIR Alliance from both members and
 non-members of the organization. If you feel your repository would fit in well
@@ -95,10 +115,20 @@ repository](https://docs.github.com/en/repositories/archiving-a-github-repositor
 ![QIR
 Alliance](https://github.com/qir-alliance/.github/blob/main/.images/header2.png)
 
-### Inquiries
+### Inquiries and Community Forums
 
 For any inquiries about the QIR Alliance, our work and upcoming opportunities,
 please contact [qiralliance@mail.com](mailto:qiralliance@mail.com).
+
+If you are curious about our work, the following community forums may be of
+interest for you:
+
+- [QIR
+  channel](https://discord.com/channels/764231928676089909/920935966586306631)
+  on the [Unitary Fund](https://unitary.fund/) Discord
+- [QIR Alliance community
+  call](https://calendar.google.com/calendar/event?eid=NnJua2o0M2hqOGQyODZrdHAxYW82djg2Z2RfMjAyMjAyMDNUMTczMDAwWiBjX21ncWRxNmhqMmlzaTRkNmg0NjdrZnF2ZzYwQGc)
+  every other week on Thursdays
 
 ![QIR
 Alliance](https://github.com/qir-alliance/.github/blob/main/.images/header2.png)
