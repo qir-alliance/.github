@@ -38,6 +38,10 @@ discussed:
   definition](https://github.com/qir-alliance/.github/blob/main/workstreams/Base_Profile_Workstream.md),
   [GitHub issue](https://github.com/qir-alliance/.github/issues/15)]
 
+- Runtime initialization, finalization, and entry-Point marking and runtime parameter input <br/> [[workstream
+  definition](https://github.com/qir-alliance/.github/blob/main/workstreams/Runtime_Init_Finalize_EntryPoint_Workstream.md),
+  [GitHub issue](https://github.com/qir-alliance/.github/issues/16)]
+  
 ### Steering Committee
 
 Steering members include Microsoft, Oak Ridge National Laboratory, Quantinuum,
