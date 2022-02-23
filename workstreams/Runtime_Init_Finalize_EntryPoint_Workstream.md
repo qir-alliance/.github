@@ -36,7 +36,7 @@ initialization and finalization routines that QIR generators may insert at
 the beginning of and end of these quantum function calls invoked from host
 call-sites. The utility of this type of function-level functionality in the
 support of near-term remote job submission and flushing internal quantum
-instruction queues, as well as general callbacks for library runtime 
+instruction queues, as well as general callbacks for library runtime
 event systems.
 
 This workstream will define how QIR generators should mark a function as
@@ -52,7 +52,7 @@ needs to be executed with custom command line arguments that should serve as
 input to that EntryPoint function. The specification needs to define some
 specified way to map custom command line arguments of a general type to the
 input arguments of the function, as well as the introduction of a `main`
-function for the underlying C runtime to pick up for execution. 
+function for the underlying C runtime to pick up for execution.
 
 ## Dependencies & Related Projects
 
@@ -100,4 +100,3 @@ The GitHub issue with be tagged appropriately after approval by the steering
 committee.
 
 ## Open Questions
-
