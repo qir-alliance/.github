@@ -88,9 +88,10 @@ Profile:
 - Use of local variables and command line parameters: <br/>
   For a Base Profile compliant program, all parameters must be known at compile
   time, and measurement results are the only non-constant values in the program.
-  See also 
-  [open questions](#open-questions-to-be-answered-as-part-of-the-workstream) 
-  around handling of measurement results that are to be answered as part of this workstream.
+  See also
+  [open questions](#open-questions-to-be-answered-as-part-of-the-workstream)
+  around handling of measurement results that are to be answered as part of
+  this workstream.
 
 - Composite data types: <br/>
   The use of composite data types such as [structure
