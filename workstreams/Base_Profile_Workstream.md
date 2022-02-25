@@ -13,7 +13,7 @@ progress through that will be useful to consumers of the specification.
 
 The Base Profile should specify the minimal requirements to support defining and
 executing quantum programs. In addition to a set of LLVM instructions, the Base
-Profile may rely on a quantum instruction set define separately, but should not
+Profile may rely on a quantum instruction set defined separately, but should not
 make use of any runtime functions listed in the QIR specification.
 
 The profile should specify all permitted LLVM instructions, and define all
@@ -25,7 +25,7 @@ specify the program output.
 
 The defined requirements should permit to implement a validation tool that
 guarantees that if the bitcode passes validation, it will be executed
-successfully on any targeted backend that support Base Profile compliant
+successfully on any targeted backend that supports Base Profile compliant
 programs.
 
 Any Base Profile compliant program should also be compliant with the QIR
@@ -58,7 +58,7 @@ quantum instruction set(s) specified as part of this workstream should meet the
 requirements specified by the Base Profile. Conversely, the Base Profile should
 not rely on any particular quantum instruction(s) being available.
 
-To targeted a quantum program to a specific backend requires selecting a
+To target a quantum program to a specific backend requires selecting a
 suitable profile and a compatible quantum instruction set. The profile and the
 quantum instruction set (QIS) selection together fully determine how the program
 IR should be represented. In addition to defining the Base Profile itself and at
@@ -82,14 +82,16 @@ Profile:
   For a Base Profile compliant program, the performed computations
   (instructions) must not depend on measurement outcomes, i.e. the instruction
   sequence is fully determined at compile time. See also the section on [open
-  questions](#open-questions) that are to be answered as part of this
-  workstream.
+  questions](#open-questions-to-be-answered-as-part-of-the-workstream) that
+  are to be answered as part of this workstream.
 
 - Use of local variables and command line parameters: <br/>
   For a Base Profile compliant program, all parameters must be known at compile
   time, and measurement results are the only non-constant values in the program.
-  See also [open questions](#open-questions) around handling of measurement
-  results that are to be answered as part of this workstream.
+  See also
+  [open questions](#open-questions-to-be-answered-as-part-of-the-workstream)
+  around handling of measurement results that are to be answered as part of
+  this workstream.
 
 - Composite data types: <br/>
   The use of composite data types such as [structure
@@ -180,7 +182,7 @@ decisions should be captured in an appropriate part of the specification:
 
 - Dynamic linking and symbol resolution: <br/>
   Related to the questions around how to define and specify a QIS,
-  considerations around the the linking stage should be captures. In particular,
+  considerations around the linking stage should be captured. In particular,
   the specification should give guidance about whether supporting libraries
   and/or the QIS may be linked before or after compilation into a Base Profile,
   as well as capture how to symbols are resolved during this stage.
