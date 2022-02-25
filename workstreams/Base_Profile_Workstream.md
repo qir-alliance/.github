@@ -82,14 +82,15 @@ Profile:
   For a Base Profile compliant program, the performed computations
   (instructions) must not depend on measurement outcomes, i.e. the instruction
   sequence is fully determined at compile time. See also the section on [open
-  questions](#open-questions-to-be-answered-as-part-of-the-workstream) that are to be answered as part of this
-  workstream.
+  questions](#open-questions-to-be-answered-as-part-of-the-workstream) that
+  are to be answered as part of this workstream.
 
 - Use of local variables and command line parameters: <br/>
   For a Base Profile compliant program, all parameters must be known at compile
   time, and measurement results are the only non-constant values in the program.
-  See also [open questions](#open-questions-to-be-answered-as-part-of-the-workstream) around handling of measurement
-  results that are to be answered as part of this workstream.
+  See also 
+  [open questions](#open-questions-to-be-answered-as-part-of-the-workstream) 
+  around handling of measurement results that are to be answered as part of this workstream.
 
 - Composite data types: <br/>
   The use of composite data types such as [structure
