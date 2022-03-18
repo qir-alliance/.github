@@ -40,12 +40,24 @@ instruction queues, as well as general callbacks for library runtime
 event systems.
 
 This workstream will define how QIR generators should mark a function as
-EntryPoint. QIR generators can mark exactly one function as `EntryPoint`
+EntryPoint. QIR generators can mark **exactly one** function as `EntryPoint`
 via an LLVM attribute. The function can be described with any valid function
 name. If there aren't any functions marked as `EntryPoint` then a `main`
 function must be present to enable execution. For custom `EntryPoint`
-functions an appropriate LLVM Pass must be applied to introduce a `__start`
-or `__main` function that calls the original entry point function.
+functions, an appropriate LLVM Pass must be applied to introduce a `__start`
+or `__main` function that calls the original entry point function. The
+workstream should also take into account the validity of return types
+for a custom `EntryPoint`. Likely, the return type should model some return
+status code (e.g. with an integer). This should be discussed in the
+workstream. The return of quantum execution results should be left as a
+topic for future workstreams.
+
+The utility of QIR code that lacks an `EntryPoint` function or `main` lies
+in its lowering to object code and archival into static or shared libraries.
+QIR can omit `main` or `EntryPoint` and can thereby enable a modular approach
+for the construction of quantum-classical applications. We leave this concept
+(modular QIR) for future workstreams, but the work done here should directly
+enable these modular capabilities.
 
 Use cases may exist whereby QIR code is generated with a custom EntryPoint and
 needs to be executed with custom command line arguments that should serve as
@@ -71,7 +83,8 @@ call sites, and entry-point marker metadata and runtime parameter input.
 ## Future Work (Out of Scope)
 
 This work will not define specific initialization or finalization tasks
-that a QIR implementation library should perform.
+that a QIR implementation library should perform. This work will not study
+the return of quantum execution results by `EntryPoint` functions. 
 
 ## Working Group & Getting Involved
 
@@ -79,7 +92,8 @@ Working group participants: TBD <br/>
 Working group chair: Alex McCaskey
 
 If you would like to contribute to the workstream, please contact
-[qiralliance@mail.com](mailto:qiralliance@mail.com).
+[qiralliance@mail.com](mailto:qiralliance@mail.com) and / or
+[Alex McCaskey](mailto:amccaskey@nvidia.com).
 
 ## Schedule
 
