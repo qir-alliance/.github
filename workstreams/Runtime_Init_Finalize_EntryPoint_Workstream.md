@@ -84,7 +84,7 @@ call sites, and entry-point marker metadata and runtime parameter input.
 
 This work will not define specific initialization or finalization tasks
 that a QIR implementation library should perform. This work will not study
-the return of quantum execution results by `EntryPoint` functions. 
+the return of quantum execution results by `EntryPoint` functions.
 
 ## Working Group & Getting Involved
 
