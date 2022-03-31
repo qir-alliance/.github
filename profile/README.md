@@ -26,6 +26,14 @@ to the corresponding workstream definition for more information about how to get
 involved. Alternatively, please reach out to
 [qiralliance@mail.com](mailto:qiralliance@mail.com).
 
+The following workstreams have been approved by the steering committee and are
+currently actively worked on:
+
+- Specification of a Base Profile that defines the minimal requirements to
+  define and execute quantum programs <br/> [[workstream
+  definition](https://github.com/qir-alliance/.github/blob/main/workstreams/Base_Profile_Workstream.md),
+  [GitHub issue](https://github.com/qir-alliance/qir-spec/issues/7)]
+
 If you would like to suggest a new workstream, please take a look at the
 [workstream creation
 template](https://github.com/qir-alliance/.github/blob/main/workstreams/Workstream_Creation_Template.md),
@@ -33,10 +41,13 @@ and reach out to [qiralliance@mail.com](mailto:qiralliance@mail.com) with your
 suggestion. Currently, creation of the following workstreams are being
 discussed:
 
-- Specification of a Base Profile that defines the minimal requirements to
-  define and execute quantum programs <br/> [[workstream
-  definition](https://github.com/qir-alliance/.github/blob/main/workstreams/Base_Profile_Workstream.md),
-  [GitHub issue](https://github.com/qir-alliance/.github/issues/15)]
+- Update the QIR specification to clarify mechanisms for entry point handling,
+  including command line input as well as runtime initialization and
+  finalization <br/>
+  [[GitHub issue](https://github.com/qir-alliance/.github/issues/16) ]
+
+![QIR
+Alliance](https://github.com/qir-alliance/.github/blob/main/.images/header2.png)
 
 - Runtime initialization, finalization, and entry-Point marking and runtime
   parameter input <br/> [[workstream
@@ -126,10 +137,9 @@ Alliance](https://github.com/qir-alliance/.github/blob/main/.images/header2.png)
 ### Inquiries and Community Forums
 
 For any inquiries about the QIR Alliance, our work and upcoming opportunities,
-please contact [qiralliance@mail.com](mailto:qiralliance@mail.com).
-
-If you are curious about our work, the following community forums may be of
-interest for you:
+please contact [qiralliance@mail.com](mailto:qiralliance@mail.com). If you are
+curious about our work, the following community forums may be of interest for
+you:
 
 - [QIR
   channel](https://discord.com/channels/764231928676089909/920935966586306631)
