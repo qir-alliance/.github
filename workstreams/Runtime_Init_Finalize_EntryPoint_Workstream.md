@@ -69,8 +69,9 @@ function for the underlying C runtime to pick up for execution.
 ## Dependencies & Related Projects
 
 A related workstream is to specify a base profile of the full specification.
-This work should ensure that future base profile work is also compliant with
-entrypoint definitions and runtime input, finalization, and parameterization.
+Once defined, this specification will guide future iterations of the base
+profile, which must remain compliant in entrypoint definitions, runtime input,
+finalization, and parameterization.
 
 ## Deliverable(s) & Expected Outcome
 
@@ -103,14 +104,11 @@ Meeting schedule and/or channel(s) of communication:
 
 ## Status & Discussions
 
-Current status: Workstream to be approved by steering committee
+Current status: Workstream has been approved.
 
 The work and status will be tracked in the form of a [GitHub
-issue](https://github.com/qir-alliance/qir-spec/issues) on the [specification
+issue](https://github.com/qir-alliance/qir-spec/issues/11) on the [specification
 repository](https://github.com/qir-alliance/qir-spec). We encourage comments,
 inputs, and discussions on that issue.
-
-The GitHub issue with be tagged appropriately after approval by the steering
-committee.
 
 ## Open Questions

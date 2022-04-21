@@ -48,11 +48,6 @@ discussed:
 
 ![QIR
 Alliance](https://github.com/qir-alliance/.github/blob/main/.images/header2.png)
-
-- Runtime initialization, finalization, and entry-Point marking and runtime
-  parameter input <br/> [[workstream
-  definition](../workstreams/Runtime_Init_Finalize_EntryPoint_Workstream.md),
-  [GitHub issue](https://github.com/qir-alliance/.github/issues/16)]
   
 ### Steering Committee
 
