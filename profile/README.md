@@ -48,7 +48,7 @@ discussed:
 
 ![QIR
 Alliance](https://github.com/qir-alliance/.github/blob/main/.images/header2.png)
-
+  
 ### Steering Committee
 
 Steering members include Microsoft, Oak Ridge National Laboratory, Quantinuum,
