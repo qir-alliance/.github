@@ -51,12 +51,13 @@ on metadata, we could still enforce it as part of our tooling.
 to an entry point and not attached to a module flag. In the future, it will be
 possible to attach other attributes.
 - The “required_num_qubits” and "required_num_results” are helpful for some backends.
-- For a quantum instruction that has a string in it, use a constant string in the IR.
+- For a quantum instruction that has a string in it, use a constant string in
+the IR.
 - The Base Profile does not intend to have any variable defined.
 - The output recording section specifies the available runtime functions.
 - The module flags contain minor and major versions “qir_minor_version” and
 “qir_major_version” and are a way to determine an older version of the specification.
-- QIS can depend on other data types than %Qubit* and %Result*. It might be
+- QIS can depend on other data types than Qubit and Result. It might be
 possible to introduce a new type in the next iteration.
 - Share the Base Profile PR on QuTiP (Unitary Fund Discord channel) and make it
 a topic of the next QIR community call.

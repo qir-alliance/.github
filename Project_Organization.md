@@ -70,10 +70,10 @@ in one year without the prior consent of the Steering Committee. A Steering Memb
 can nominate a temporary stand-in. Prior consent can be requested to the Steering
 Committee by sending a written communication to the chairman for consideration at
 the next Steering Committee meeting. If approved, the chairman will send a written
-confirmation that the request has been granted. An organization should make sure to
-have an updated contact on file. By default, we consider the retirement of Steering
-Members once a year, but the Steering Committee is free to add a new member throughout
-the year.
+confirmation that the request has been granted. An organization should make sure
+to have an updated contact on file. By default, we consider the retirement of
+Steering Members once a year, but the Steering Committee is free to add a new
+member throughout the year.
 
 ## 4. Decision Making
 
