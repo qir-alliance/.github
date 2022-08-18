@@ -16,8 +16,10 @@ Vicente Leyton-Ortega
 
 - The Base Profile Working Group looked at the PR for the specification
 and gave their feedback.
-- The Base Profile specification is ready to be shared with the Steering Committee.
-- Bettina gave a walkthrough of the Base Profile specification to the Steering Committee.
+- The Base Profile specification is ready to be shared with the Steering
+Committee.
+- Bettina gave a walkthrough of the Base Profile specification to the Steering
+Committee.
 - Vicente has offered to represent ORNL.
 
 ## Key decisions (all voted unanimously)
@@ -47,16 +49,18 @@ no need for initialization.
 - LLVM uses module metadata when combining modules.
 - The Base Profile workstream has its custom tooling. Even if LLVM does not act
 on metadata, we could still enforce it as part of our tooling.
-- The “qir_profile” is an attribute that contains the QIR profile that is attached
-to an entry point and not attached to a module flag. In the future, it will be
-possible to attach other attributes.
-- The “required_num_qubits” and "required_num_results” are helpful for some backends.
+- The “qir_profile” is an attribute that contains the QIR profile that is
+attached to an entry point and not attached to a module flag. In the future,
+it will be possible to attach other attributes.
+- The “required_num_qubits” and "required_num_results” are helpful for some
+backends.
 - For a quantum instruction that has a string in it, use a constant string in
 the IR.
 - The Base Profile does not intend to have any variable defined.
 - The output recording section specifies the available runtime functions.
 - The module flags contain minor and major versions “qir_minor_version” and
-“qir_major_version” and are a way to determine an older version of the specification.
+“qir_major_version” and are a way to determine an older version of the
+specification.
 - QIS can depend on other data types than Qubit and Result. It might be
 possible to introduce a new type in the next iteration.
 - Share the Base Profile PR on QuTiP (Unitary Fund Discord channel) and make it
