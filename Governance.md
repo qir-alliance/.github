@@ -53,7 +53,7 @@ within a reasonable time.
 ## 3.   Ways of Working
 
 Inspired by [ANSI’s Essential Requirements for Due
-Process](https://share.ansi.org/Shared%20Documents/Standards%20Activities/American%20National%20Standards/Procedures,%20Guides,%20and%20Forms/2021_ANSI_Essential_Requirements.pdf),
+Process](https://www.ansi.org/american-national-standards/ans-introduction/essential-requirements#collapse-7f8c04e2-ee5f-4d95-8c44-359b79e74785),
 Working Groups under the QIR Alliance must adhere to consensus-based due process
 requirements. These requirements apply to activities related to the development
 of consensus for approval, revision, reaffirmation, and withdrawal of
