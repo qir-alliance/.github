@@ -34,6 +34,11 @@ currently actively worked on:
   definition](https://github.com/qir-alliance/.github/blob/main/workstreams/Base_Profile_Workstream.md),
   [GitHub issue](https://github.com/qir-alliance/qir-spec/issues/7)]
 
+- Update the QIR specification to clarify mechanisms for entry point handling,
+  including command line input as well as runtime initialization and
+  finalization <br/>
+  [[GitHub issue](https://github.com/qir-alliance/.github/issues/16) ]
+
 If you would like to suggest a new workstream, please take a look at the
 [workstream creation
 template](https://github.com/qir-alliance/.github/blob/main/workstreams/Workstream_Creation_Template.md),
@@ -41,14 +46,13 @@ and reach out to [qiralliance@mail.com](mailto:qiralliance@mail.com) with your
 suggestion. Currently, creation of the following workstreams are being
 discussed:
 
-- Update the QIR specification to clarify mechanisms for entry point handling,
-  including command line input as well as runtime initialization and
-  finalization <br/>
-  [[GitHub issue](https://github.com/qir-alliance/.github/issues/16) ]
+- Specification of a first Adaptive Profile that permits to execute quantum
+  programs that require performing classical computations while the quantum
+  state remains coherent
 
 ![QIR
 Alliance](https://github.com/qir-alliance/.github/blob/main/.images/header2.png)
-  
+
 ### Steering Committee
 
 Steering members include Microsoft, Oak Ridge National Laboratory, Quantinuum,
@@ -118,7 +122,10 @@ requirements for code repositories under the QIR Alliance are the following:
 - The project should be related in content to the goals and scope of the QIR
   Alliance as outlined above.
 - All code should be licensed under [MIT license](https://mit-license.org/), and
-  contributors to the repository must accept a CLA defined by the maintainers.
+  we highly recommend to ask new contributors to accept the CLA defined by the
+  maintainers. Instructions for how to set up a basic bot that present the
+  chosen CLA to new contributors and asks them to accept it can be found
+  [here](https://github.com/qir-alliance/.github/blob/main/workflow-templates/utils/cla_bot_setup.md).
 
 The QIR Alliance will reach out to the maintainers if a repository no longer
 satisfies these criteria to reach an agreement and resolve the situation. If the
@@ -133,12 +140,15 @@ Alliance](https://github.com/qir-alliance/.github/blob/main/.images/header2.png)
 
 For any inquiries about the QIR Alliance, our work and upcoming opportunities,
 please contact [qiralliance@mail.com](mailto:qiralliance@mail.com). If you are
-curious about our work, the following community forums may be of interest for
-you:
+curious about our work, we encourage you to join our Open Source community on
+Discord. The QIR community meets on the [Unitary Fund](https://unitary.fund/)
+Discord server; to add the server, please follow this
+[invite](https://discord.com/invite/JqVGmpkP96) before clicking on the links
+below. The following forums and events may be of interest for you:
 
 - [QIR
   channel](https://discord.com/channels/764231928676089909/920935966586306631)
-  on the [Unitary Fund](https://unitary.fund/) Discord
+  on the Unitary Fund Discord
 - [QIR Alliance community
   call](https://calendar.google.com/calendar/event?eid=NnJua2o0M2hqOGQyODZrdHAxYW82djg2Z2RfMjAyMjAyMDNUMTczMDAwWiBjX21ncWRxNmhqMmlzaTRkNmg0NjdrZnF2ZzYwQGc)
   every other week on Thursdays
