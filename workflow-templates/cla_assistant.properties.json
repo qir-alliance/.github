@@ -1,0 +1,5 @@
+{
+  "name": "QIR Alliance CLA Bot Configuration",
+  "description": "Workflow template to check that contributors have acknowledged the CLA.",
+  "iconName": "workflow"
+}
