@@ -1,6 +1,6 @@
 # Steering Committee Meeting September 2022
 
-Attendance: Alex Chernoguzov, Alex McCaskey, Bettina Heim, Kalan Snyder, 
+Attendance: Alex Chernoguzov, Alex McCaskey, Bettina Heim, Kalan Snyder,
 Sonia Pignorel, Tom Lubinski, Vicente Leyton-Ortega, Wim Lavrijsen
 
 ## Meeting agenda
@@ -23,7 +23,7 @@ for official projects and one for community projects.
 to be highlighted to a broader audience.
 - Next Thursday's QIR community call will have Craig from Codespaces speak
 about a terrific collaboration.
-- Alex gave an update of the Runtime Initialization workstream. Last few 
+- Alex gave an update of the Runtime Initialization workstream. Last few
 meetings of the workstream have been about defining the execution environment
 for an heterogeneous machines model, what the function signatures look like,
 submission of QIR over Rust API and QIR kernel.
@@ -36,13 +36,13 @@ Contributor License Agreement without making it a hard requirement.
 
 ## Follow-ups / Action items
 
-- The Steering Committee members to share an update on QIR for the upcoming 
+- The Steering Committee members to share an update on QIR for the upcoming
 Linux Foundation blog post.
-- The Steering Committee members will confirm they are fine with the 
+- The Steering Committee members will confirm they are fine with the
 Base Profile Specification PR latest changes.
 - The QIR Alliance website will post about the IEEE Quantum Week workshop.
 - The QIR Alliance website will list all papers that mentions QIR.  
-- All Steering Committee members will be added to the QIR Alliance website 
+- All Steering Committee members will be added to the QIR Alliance website
 repository.
 - The Runtime Initialization workstream will have a PR by end of October.
 
