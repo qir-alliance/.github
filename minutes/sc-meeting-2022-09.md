@@ -50,7 +50,6 @@ repository.
 
 - References
   - [QIR Alliance Website](https://qir-alliance.github.io/)
-  - [QIR Alliance Website Contribution Repository](https://github.com/qir-alliance/qir-alliance.github.io/blob/main/CONTRIBUTING.md#adding-news-stories)
   - [Base Profile Specification PR Latest Changes](https://github.com/qir-alliance/qir-spec/pull/12/files)
   - [Github conference](https://githubuniverse.com/)
   - [QIR Community Call](https://bit.ly/qir-community-call-chat)
