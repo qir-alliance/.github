@@ -55,7 +55,7 @@ Alliance](https://github.com/qir-alliance/.github/blob/main/.images/header2.png)
 
 ### Steering Committee
 
-Steering members include Microsoft, Oak Ridge National Laboratory, Quantinuum,
+Steering members include Microsoft, NVIDIA, Oak Ridge National Laboratory, Quantinuum,
 Quantum Circuits Inc., and Rigetti Computing (in alphabetical order). For more
 information about the project organization, we refer to [this
 document](https://github.com/qir-alliance/.github/blob/main/Project_Organization.md).
