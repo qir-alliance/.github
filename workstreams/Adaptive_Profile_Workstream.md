@@ -96,8 +96,11 @@ the Base Profile:
   to globally declared LLVM functions that may be called as part of program
   execution.
 
-- Support for floating point data types: <br/>
+- Computations involving floating point data types: <br/>
   ... (constants are ok, but cannot be assigned to local variable)
+
+- Unbounded loops or recursions: <br/>
+  ... (program need to be know to terminate)
 
 - Dynamic qubit allocations and access: <br/>
   Within the Base Profile, all qubit uses refer directly to a unique qubit id
