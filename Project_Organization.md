@@ -51,7 +51,9 @@ to participate in decisions that require a Supermajority Vote.
 ### 3.1. Steering Committee
 
 The Steering Committee is the body that is responsible for governing the
-Project, coordinating Working Groups, and managing assets.
+Project, coordinating Working Groups, and managing assets. No more than two 
+delegates from a Steering Committee member organization can attend a 
+Steering Committee meeting.
 
 ### 3.2. Chairperson
 
@@ -60,7 +62,13 @@ Steering Committee, organizing meetings, organizing voting, identifying new
 Working Groups, managing finance, tracking Working Group progress, ensuring
 Working Group meet their goals, and any other activities Approved by the
 Steering Committee. The Chairperson may delegate responsibilities to another
-party. The Steering Committee may Approve a new Chairperson.
+party. The Steering Committee may Approve a new Chairperson. The Chairperson 
+may designate an interim chair if they may be absent from one Steering Committee 
+meeting. The Chairperson can be an external person. The Chairperson doesn’t 
+have to be an employee of one of the Steering Committee member organizations. 
+The Chairperson doesn’t have any voting privilege unless listed explicitly. 
+The Chairperson is automatically reelected for up to 4 years. The Steering 
+Committee may approve a new Chairperson at any time.
 
 ### 3.3. Rhythm of Business
 
