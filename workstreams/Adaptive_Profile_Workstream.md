@@ -148,3 +148,4 @@ decisions should be captured in an appropriate part of the specification:
 - Computations involving floating point data types: <br/>
   ... (constants are ok, but cannot be assigned to local variable)
 - structuring code into multiple functions
+- Since we ask for validation, we might investigate what properties can be checked by existing static analysis tools, so to make "reasonable" more precise.
