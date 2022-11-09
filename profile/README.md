@@ -37,7 +37,9 @@ currently actively worked on:
 - Update the QIR specification to clarify mechanisms for entry point handling,
   including command line input as well as runtime initialization and
   finalization <br/>
-  [[GitHub issue](https://github.com/qir-alliance/.github/issues/16) ]
+  [[workstream
+  definition](https://github.com/qir-alliance/.github/blob/main/workstreams/Runtime_Init_Finalize_EntryPoint_Workstream.md),
+  [[GitHub issue](https://github.com/qir-alliance/qir-spec/issues/11) ]
 
 If you would like to suggest a new workstream, please take a look at the
 [workstream creation
@@ -48,16 +50,18 @@ discussed:
 
 - Specification of a first Adaptive Profile that permits to execute quantum
   programs that require performing classical computations while the quantum
-  state remains coherent
+  state remains coherent <br/>
+  [[workstream definition](https://github.com/qir-alliance/.github/pull/31),
+  [GitHub issue](https://github.com/qir-alliance/.github/issues/32)]
 
 ![QIR
 Alliance](https://github.com/qir-alliance/.github/blob/main/.images/header2.png)
 
 ### Steering Committee
 
-Steering members include Microsoft, NVIDIA, Oak Ridge National Laboratory, Quantinuum,
-Quantum Circuits Inc., and Rigetti Computing (in alphabetical order). For more
-information about the project organization, we refer to [this
+Steering members include Microsoft, NVIDIA, Oak Ridge National Laboratory,
+Quantinuum, Quantum Circuits Inc., and Rigetti Computing (in alphabetical
+order). For more information about the project organization, we refer to [this
 document](https://github.com/qir-alliance/.github/blob/main/Project_Organization.md).
 
 #### Meetings
