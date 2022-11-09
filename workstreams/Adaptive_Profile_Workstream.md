@@ -140,12 +140,21 @@ that issue.
 The following topics should be fleshed out as part of this workstream, and the
 decisions should be captured in an appropriate part of the specification:
 
-- command line parameters ...
-- definition and use of local variables (storing or processing classical values)
-  ...
-- restrictions for control flow statements ...
-- requirement of detecting over-/underflow ...
-- Computations involving floating point data types: <br/>
-  ... (constants are ok, but cannot be assigned to local variable)
-- structuring code into multiple functions
-- Since we ask for validation, we might investigate what properties can be checked by existing static analysis tools, so to make "reasonable" more precise.
+- This workstream will discussed and defined if an entry point may be
+  parameterized within the Adaptive Profile, and if so, what the restrictions
+  are for such parameters.
+- An open question is whether the Adaptive Profile should allow for/require
+  support for computations including floating point values.
+- The precise rules for defining and using local variables will be clarified as
+  part of the workstream. This specifically includes how to represent value
+  updates in the source code.
+- How to ensure that the program terminates and whether it is
+  possible/reasonable for a validation tool to detect potential infinite loops
+  needs to be discussed. The workstream will also clarify whether an entry point
+  function that complies with the Adaptive Profile may be calling other
+  subroutines define as llvm functions, as long as the call graph does not
+  contain any loops.
+- Since we ask for validation, the workstream may also investigate what
+  properties can be checked by existing static analysis tools, so to make
+  "reasonable" more precise, particularly when it comes to detecting
+  over-/underflow.
