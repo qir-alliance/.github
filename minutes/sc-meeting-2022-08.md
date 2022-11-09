@@ -69,6 +69,6 @@ a topic of the next QIR community call.
 good platform for IR inspection; Nvidia will bring tooling and a new community
 to QIR.
 - References
-  - [Base Profile Specification](https://github.com/qir-alliance/qir-spec/blob/base-profile/specification/under_development/profiles/Base_Profile.md)
+  - [Base Profile Specification](https://github.com/qir-alliance/qir-spec/blob/main/specification/under_development/profiles/Base_Profile.md)
   - [Runtime Initialization Workstream](https://github.com/amccaskey/.github/blob/main/workstreams/Runtime_Init_Finalize_EntryPoint_Workstream.md)
   - [QIR Alliance Project Charter](https://github.com/qir-alliance/.github/blob/main/Project_Organization.md)
