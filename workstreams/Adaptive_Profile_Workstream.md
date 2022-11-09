@@ -16,16 +16,15 @@ executing quantum programs that permit for limited classical computations and
 control flow during execution. In addition to a set of LLVM instructions, the
 Adaptive Profile may rely on a quantum instruction set defined separately, but
 should not make use of any runtime functions beyond the functions used for
-initialization/finalization and output recording that are also used within a
-Base Profile compliant program.
+initialization/finalization and output recording.
 
 The profile should specify all permitted LLVM instructions, and define all
 required constructs for the program to be valid and executable on targeted
 backends. This includes specifying required and optional attributes,
 requirements and recommendations for defining QIS functions that can be used
-when targeting an Adaptive Profile, and the runtime functions that are used for
-output recording. The profile specification should furthermore clarify the usage
-of data types and values.
+when targeting an Adaptive Profile, and the runtime functions for output
+recording. The profile specification should furthermore clarify the usage of
+data types and values.
 
 The defined requirements should permit to implement a tool that validates the
 program to the degree that compile-time validation is reasonable. The section
@@ -49,7 +48,7 @@ raised as early as possible with the steering committee.
 A related workstream is to specify entry point functions including runtime
 initialization and finalization in the QIR specification. Any rules for entry
 points defined as part of this profile should be compliant with that
-specification. The specification of an adaptive profile should also naturally
+specification. The specification of an Adaptive Profile should also naturally
 extend the Base Profile specification that has already been defined.
 
 ## Deliverable(s) & Expected Outcome
@@ -68,7 +67,7 @@ Like the Base Profile, the Adaptive Profile should not rely on any particular
 quantum instruction(s) being available. To target a quantum program to a
 specific backend requires selecting a suitable profile and a compatible quantum
 instruction set. The profile and the quantum instruction set (QIS) selection
-together fully determine how the program IR should be represented.
+together determine how the program IR should be represented.
 
 A similar specification for the Base Profile can be found
 [here](https://github.com/qir-alliance/qir-spec/blob/main/specification/under_development/profiles/Base_Profile.md).
@@ -87,8 +86,8 @@ the Base Profile:
   and [sequential
   types](https://llvm.org/doxygen/group__LLVMCCoreTypeSequential.html) including
   [arrays](https://github.com/qir-alliance/qir-spec/blob/main/specification/v0.1/1_Data_Types.md#arrays)
-  is not supported within an Adaptive Profile. This also precludes
-  the use of such data structures for [callable
+  is not supported within an Adaptive Profile. This also precludes the use of
+  such data structures for [callable
   values](https://github.com/qir-alliance/qir-spec/blob/main/specification/v0.1/2_Callables.md);
   i.e., the usage of subroutines as first class values is not supported within
   the Base Profile, and the use of [function
@@ -96,11 +95,11 @@ the Base Profile:
   to globally declared LLVM functions that may be called as part of program
   execution.
 
-- Computations involving floating point data types: <br/>
-  ... (constants are ok, but cannot be assigned to local variable)
-
 - Unbounded loops or recursions: <br/>
-  ... (program need to be know to terminate)
+  The Adaptive Profile should require that any profile compliant program is
+  known to terminate; it must be possible to statically bind resources and
+  schedule QPU instructions. Supporting direct or indirect function recursions
+  is out of scope for the Adaptive Profile.
 
 - Dynamic qubit allocations and access: <br/>
   Within the Base Profile, all qubit uses refer directly to a unique qubit id
@@ -123,7 +122,7 @@ If you would like to contribute to the workstream, please contact
 
 ## Schedule
 
-Launch date: November 2022 <br/>
+Launch date: December 2022 <br/>
 Estimated end date: February 2023 <br/>
 Meeting schedule and/or channel(s) of communication: TBD
 
@@ -142,5 +141,10 @@ The following topics should be fleshed out as part of this workstream, and the
 decisions should be captured in an appropriate part of the specification:
 
 - command line parameters ...
-- definition and use of local variables (storing or processing classical values) ...
+- definition and use of local variables (storing or processing classical values)
+  ...
 - restrictions for control flow statements ...
+- requirement of detecting over-/underflow ...
+- Computations involving floating point data types: <br/>
+  ... (constants are ok, but cannot be assigned to local variable)
+- structuring code into multiple functions
