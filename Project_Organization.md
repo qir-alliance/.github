@@ -66,7 +66,7 @@ party. The Steering Committee may Approve a new Chairperson. The Chairperson
 may designate an interim chair if they may be absent from one Steering Committee 
 meeting. The Chairperson can be an external person. The Chairperson doesn’t 
 have to be an employee of one of the Steering Committee member organizations. 
-The Chairperson doesn’t have any voting privilege unless listed explicitly. 
+The Chairperson doesn’t have any voting privilege unless they are also appointed as the designated voting delegate by one of the steering committee members. 
 The Chairperson is automatically reelected for up to 4 years. The Steering 
 Committee may approve a new Chairperson at any time.
 
