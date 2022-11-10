@@ -62,7 +62,7 @@ The Project will have a Chairperson whose responsibilities include leading the
 Steering Committee, organizing meetings, managing finance, organizing voting, identifying new
 Working Groups, tracking Working Group progress, ensuring
 Working Group meet their goals, organizing community calls and official events, 
-serving as contact and representing the QIR Alliance, and any other activities 
+serving as contact and representing the QIR Alliance, updating and maintaining the official webpage, and any other activities 
 approved by the Steering Committee. The Chairperson may delegate responsibilities 
 to another party. The Steering Committee may Approve a new Chairperson. The 
 Chairperson may designate an interim chair if they may be absent from one Steering 
