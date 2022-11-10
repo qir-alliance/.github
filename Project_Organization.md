@@ -51,9 +51,10 @@ to participate in decisions that require a Supermajority Vote.
 ### 3.1. Steering Committee
 
 The Steering Committee is the body that is responsible for governing the
-Project, coordinating Working Groups, and managing assets. No more than two 
-delegates from each organization can attend a 
-Steering Committee meeting.
+Project, coordinating Working Groups, and managing assets. To keep discussions 
+productive and balanced, attendance is generally limited to two attendees per 
+organization. The Steering Committee may grant an exception to this rule for a 
+specific meeting and purpose only.
 
 ### 3.2. Chairperson
 
