@@ -16,7 +16,7 @@ Sonia Pignorel, Tom Lubinski, Vicente Leyton-Ortega, Wim Lavrijsen
 
 - A second workstream on the specification will capture an adaptive
 Base Profile, but it won't be launched without closing this one.
-- The QIR Alliance website is built by Sarah Kaisey using Github template.
+- The QIR Alliance website is built by Sarah Kaiser using Github template.
 - The QIR Alliance website's Projects section will have two sections: one
 for official projects and one for community projects.
 - The Github conference is coming up which is a great opportunity for the work
@@ -41,7 +41,7 @@ Linux Foundation blog post.
 - The Steering Committee members will confirm they are fine with the
 Base Profile Specification PR latest changes.
 - The QIR Alliance website will post about the IEEE Quantum Week workshop.
-- The QIR Alliance website will list all papers that mentions QIR.  
+- The QIR Alliance website will list all papers that mentions QIR.
 - All Steering Committee members will be added to the QIR Alliance website
 repository.
 - The Runtime Initialization workstream will have a PR by end of October.

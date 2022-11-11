@@ -55,9 +55,9 @@ Alliance](https://github.com/qir-alliance/.github/blob/main/.images/header2.png)
 
 ### Steering Committee
 
-Steering members include Microsoft, NVIDIA, Oak Ridge National Laboratory, Quantinuum,
-Quantum Circuits Inc., and Rigetti Computing (in alphabetical order). For more
-information about the project organization, we refer to [this
+Steering members include Microsoft, NVIDIA, Oak Ridge National Laboratory,
+Quantinuum, Quantum Circuits Inc., and Rigetti Computing (in alphabetical
+order). For more information about the project organization, we refer to [this
 document](https://github.com/qir-alliance/.github/blob/main/Project_Organization.md).
 
 #### Meetings
@@ -103,6 +103,7 @@ non-members of the organization. If you feel your repository would fit in well
 under this org, please reach out to
 [qiralliance@mail.com](mailto:qiralliance@mail.com). The steering committee will
 will approve and initiate the creation of new repositories, and facilitate the
+<!-- markdown-link-check-disable-next-line -->
 [migration](https://docs.github.com/en/repositories/creating-and-managing-repositories/transferring-a-repository#transferring-a-repository-owned-by-your-user-account)
 of existing ones.
 
@@ -127,11 +128,13 @@ requirements for code repositories under the QIR Alliance are the following:
   chosen CLA to new contributors and asks them to accept it can be found
   [here](https://github.com/qir-alliance/.github/blob/main/workflow-templates/utils/cla_bot_setup.md).
 
+<!-- markdown-link-check-disable -->
 The QIR Alliance will reach out to the maintainers if a repository no longer
 satisfies these criteria to reach an agreement and resolve the situation. If the
 maintainers cannot be reached or are unable to take action, the QIR Alliance
 reserves the right to [archive the
 repository](https://docs.github.com/en/repositories/archiving-a-github-repository/archiving-repositories).
+<!-- markdown-link-check-enable -->
 
 ![QIR
 Alliance](https://github.com/qir-alliance/.github/blob/main/.images/header2.png)

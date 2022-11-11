@@ -51,24 +51,27 @@ to participate in decisions that require a Supermajority Vote.
 ### 3.1. Steering Committee
 
 The Steering Committee is the body that is responsible for governing the
-Project, coordinating Working Groups, and managing assets. No more than two 
-delegates from a Steering Committee member organization can attend a 
-Steering Committee meeting.
+Project, coordinating Working Groups, and managing assets. To keep discussions 
+productive and balanced, attendance is generally limited to two attendees per 
+organization. The Steering Committee may grant an exception to this rule for a 
+specific meeting and purpose only.
 
 ### 3.2. Chairperson
 
 The Project will have a Chairperson whose responsibilities include leading the
-Steering Committee, organizing meetings, organizing voting, identifying new
-Working Groups, managing finance, tracking Working Group progress, ensuring
-Working Group meet their goals, and any other activities Approved by the
-Steering Committee. The Chairperson may delegate responsibilities to another
-party. The Steering Committee may Approve a new Chairperson. The Chairperson 
-may designate an interim chair if they may be absent from one Steering Committee 
-meeting. The Chairperson can be an external person. The Chairperson doesn’t 
+Steering Committee, organizing meetings, managing finance, organizing voting, identifying new
+Working Groups, tracking Working Group progress, ensuring
+Working Group meet their goals, organizing community calls and official events, 
+serving as contact and representing the QIR Alliance, updating and maintaining the official webpage, and any other activities 
+approved by the Steering Committee. The Chairperson may delegate responsibilities 
+to another party. The Steering Committee may Approve a new Chairperson. The 
+Chairperson may designate an interim chair if they may be absent from one Steering 
+Committee meeting. The Chairperson can be an external person. The Chairperson doesn’t 
 have to be an employee of one of the Steering Committee member organizations. 
-The Chairperson doesn’t have any voting privilege unless listed explicitly. 
+The Chairperson doesn’t have any voting privilege unless they are also appointed 
+as the designated voting delegate by one of the steering committee members. 
 The Chairperson is automatically reelected for up to 4 years. The Steering 
-Committee may approve a new Chairperson at any time.
+Committee may call for a new Chairperson nomination at anytime.
 
 ### 3.3. Rhythm of Business
 
@@ -82,6 +85,14 @@ confirmation that the request has been granted. An organization should make sure
 to have an updated contact on file. By default, we consider the retirement of
 Steering Members once a year, but the Steering Committee is free to add a new
 member throughout the year.
+
+### 3.4. Core Maintainers
+
+Core Maintainers take an active role in maintaining content in one or more of 
+the repositories under the QIR Alliance. The two primary designated maintainers 
+for each active repository would be listed automatically, and additional people 
+that contribute significantly across various repos may be added and removed at 
+the discretion of the steering committee via a vote. 
 
 ## 4. Decision Making
 
