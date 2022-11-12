@@ -89,7 +89,7 @@ member throughout the year.
 ### 3.4. Core Maintainers
 
 Core Maintainers take an active role in maintaining content in one or more of 
-the repositories under the QIR Alliance. The (at most) two primary designated 
+the repositories under the QIR Alliance. The two primary designated 
 maintainers for each active public repository under the QIR Alliance are 
 automatically attributed the title of a Core Maintainer. Additional people that 
 contribute significantly across various repos may be added and removed at the discretion 
