@@ -70,7 +70,7 @@ Committee meeting. The Chairperson can be an external person. The Chairperson do
 have to be an employee of one of the Steering Committee member organizations. 
 The Chairperson doesn’t have any voting privilege unless they are also appointed 
 as the designated voting delegate by one of the steering committee members. 
-The Chairperson is automatically reelected for up to 4 years. The Steering 
+The Chairperson is appointed for a duration of a year or until their affiliation changes and they can be reelected. The Steering 
 Committee may call for a new Chairperson nomination at anytime.
 
 ### 3.3. Rhythm of Business
