@@ -19,9 +19,9 @@ regulatory guidelines. Projects are otherwise independent.
 Steering Members are organizations that sign a legal agreement capturing the
 ideas summarized in the documents on this repository. They may participate in
 each Working Group and the Steering Committee. The Steering Member designates an
-individual to represent the organization in Steering Committee meetings.
-The current Steering Committee votes on accepting new Steering Members
-taking the following factors into consideration, among other aspects:
+individual to represent the organization in Steering Committee meetings. The
+current Steering Committee votes on accepting new Steering Members taking the
+following factors into consideration, among other aspects:
 
 - Organization has demonstrated a sustained interest and commitment in
   standardizing a quantum intermediate representation.
@@ -51,49 +51,51 @@ to participate in decisions that require a Supermajority Vote.
 ### 3.1. Steering Committee
 
 The Steering Committee is the body that is responsible for governing the
-Project, coordinating Working Groups, and managing assets. To keep discussions 
-productive and balanced, attendance is generally limited to two attendees per 
-organization. The Steering Committee may grant an exception to this rule for a 
+Project, coordinating Working Groups, and managing assets. To keep discussions
+productive and balanced, attendance is generally limited to two attendees per
+organization. The Steering Committee may grant an exception to this rule for a
 specific meeting and purpose only.
 
 ### 3.2. Chairperson
 
 The Project will have a Chairperson whose responsibilities include leading the
-Steering Committee, organizing meetings, managing finance, organizing voting, identifying new
-Working Groups, tracking Working Group progress, ensuring
-Working Group meet their goals, organizing community calls and official events, 
-serving as contact and representing the QIR Alliance, updating and maintaining the official webpage, and any other activities 
-approved by the Steering Committee. The Chairperson may delegate responsibilities 
-to another party. The Steering Committee may Approve a new Chairperson. The 
-Chairperson may designate an interim chair if they may be absent from one Steering 
-Committee meeting. The Chairperson can be an external person. The Chairperson doesn’t 
-have to be an employee of one of the Steering Committee member organizations. 
-The Chairperson doesn’t have any voting privilege unless they are also appointed 
-as the designated voting delegate by one of the steering committee members. 
-The Chairperson is appointed for a duration of a year or until their affiliation changes and they can be reelected. The Steering 
-Committee may call for a new Chairperson nomination at anytime.
+Steering Committee, organizing meetings, managing finance, organizing voting,
+identifying new Working Groups, tracking Working Group progress, ensuring
+Working Group meet their goals, organizing community calls and official events,
+serving as contact and representing the QIR Alliance, updating and maintaining
+the official webpage, and any other activities approved by the Steering
+Committee. The Chairperson may delegate responsibilities to another party. The
+Steering Committee may Approve a new Chairperson. The Chairperson may designate
+an interim chair if they may be absent from one Steering Committee meeting. The
+Chairperson can be an external person. The Chairperson doesn’t have to be an
+employee of one of the Steering Committee member organizations. The Chairperson
+doesn’t have any voting privilege unless they are also appointed as the
+designated voting delegate by one of the steering committee members. The
+Chairperson is appointed for a duration of a year or until their affiliation
+changes and they can be reelected. The Steering Committee may call for a new
+Chairperson nomination at anytime.
 
 ### 3.3. Rhythm of Business
 
-The seat of a Steering Member may be vacated if a Steering Committee delegate
-is not designated or absent for more than one third of Steering Committee meetings
-in one year without the prior consent of the Steering Committee. A Steering Member
-can nominate a temporary stand-in. Prior consent can be requested to the Steering
-Committee by sending a written communication to the chairman for consideration at
-the next Steering Committee meeting. If approved, the chairman will send a written
-confirmation that the request has been granted. An organization should make sure
-to have an updated contact on file. By default, we consider the retirement of
-Steering Members once a year, but the Steering Committee is free to add a new
-member throughout the year.
+The seat of a Steering Member may be vacated if a Steering Committee delegate is
+not designated or absent for more than one third of Steering Committee meetings
+in one year without the prior consent of the Steering Committee. A Steering
+Member can nominate a temporary stand-in. Prior consent can be requested to the
+Steering Committee by sending a written communication to the chairman for
+consideration at the next Steering Committee meeting. If approved, the chairman
+will send a written confirmation that the request has been granted. An
+organization should make sure to have an updated contact on file. By default, we
+consider the retirement of Steering Members once a year, but the Steering
+Committee is free to add a new member throughout the year.
 
 ### 3.4. Core Maintainers
 
-Core Maintainers take an active role in maintaining content in one or more of 
-the repositories under the QIR Alliance. The two primary designated 
-maintainers for each active public repository under the QIR Alliance are 
-automatically attributed the title of a Core Maintainer. Additional people that 
-contribute significantly across various repos may be added and removed at the discretion 
-of the Steering Committee via a vote. When doing so, the Steering Committee will 
+Core Maintainers take an active role in maintaining content in one or more of
+the repositories under the QIR Alliance. The two primary designated maintainers
+for each active public repository under the QIR Alliance are automatically
+attributed the title of a Core Maintainer. Additional people that contribute
+significantly across various repos may be added and removed at the discretion of
+the Steering Committee via a vote. When doing so, the Steering Committee will
 consider the affiliation of the people and prioritize diversity.
 
 ## 4. Decision Making
