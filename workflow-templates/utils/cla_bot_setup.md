@@ -21,7 +21,7 @@ checked in under `.github/workflows/` once you commit the change. Click on the
 workflow to your repository. Please note that the bot will only start to work
 once the change has been merged to the default branch of your repository.
 
-For the bot to work correctly, a
+For the bot to work correctly, a <!-- markdown-link-check-disable-next-line -->
 [secret](https://docs.github.com/en/actions/security-guides/encrypted-secrets)
 needs to be added to the repository to give the necessary permissions to the
 bot. Please reach out to [qiralliance@mail.com](mailto:qiralliance@mail.com) to
