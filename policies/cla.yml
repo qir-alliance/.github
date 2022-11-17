@@ -6,6 +6,7 @@ where:
 - |
   repository.name.equals("pyqir", StringComparison.InvariantCultureIgnoreCase)
   || repository.name.equals("qat", StringComparison.InvariantCultureIgnoreCase)
+  || repository.name.equals("qir-runner", StringComparison.InvariantCultureIgnoreCase)
 
 configuration: 
    cla:
