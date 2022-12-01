@@ -18,7 +18,7 @@ Pignorel
 month at 8 am and the other month at 11 am (the latter to be confirmed by poll).
 - Thank you all for providing a quote for the blog post.
 - The Linux Foundation marketing team has changed and has new requirements for
-the blog post.
+  the blog post.
 - The final version of the post will be sent by email, then once approved, will
 be posted onto the QIR Alliance website's announcement tab first.
 - The Base Profile specification is closed, and checked in the repo.
@@ -44,7 +44,7 @@ accomplished since the creation of the QIR Alliance.
 on their development of open QAOA algorithms, and QIR generation using Classiq
 is an upcoming presentation.
 - The workstream on how initializing and finalizing runtime libraries is
-progressing quite well.
+  progressing quite well.
 
 ## Follow-ups / Action items
 
