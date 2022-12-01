@@ -77,7 +77,7 @@ the sake of consistency and comprehensiveness of the specification.
 ## Future Work (out of scope for the Adaptive Profile)
 
 The following features will not be supported in programs that are compliant with
-the Base Profile:
+the Adaptive Profile:
 
 - Composite data types: <br/>
   The use of composite data types such as [structure
