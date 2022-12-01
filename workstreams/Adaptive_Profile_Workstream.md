@@ -90,7 +90,7 @@ the Adaptive Profile:
   such data structures for [callable
   values](https://github.com/qir-alliance/qir-spec/blob/main/specification/v0.1/2_Callables.md);
   i.e., the usage of subroutines as first class values is not supported within
-  the Base Profile, and the use of [function
+  the Adaptive Profile, and the use of [function
   types](https://llvm.org/doxygen/group__LLVMCCoreTypeFunction.html) is limited
   to globally declared LLVM functions that may be called as part of program
   execution.
