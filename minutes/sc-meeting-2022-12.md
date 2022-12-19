@@ -10,7 +10,7 @@ Ross Duncan, Sonia Pignorel, Tom Lubinski, Vicente Leyton-Ortega
 - Adaptive Profile definition review
 - Update on the Runtime workstream
 - QIR runner move to the QIR Alliance repo
-- Linux FoundationNovermber newsletter link to the Year One In Review blogpost
+- Linux Foundation November newsletter link to the Year One In Review blogpost
 - Next steps
 
 ## Recap and status
