@@ -21,7 +21,7 @@ type project, the adaptive profile specification, to define function calls
 and linking, a public roadmap, to deepen engagement with the industry and
 expand the alliance's members, to cut versions of the base profile more
 frequently and to communicate more frequently when spec work is finished.
-- New steering members. LRZ (Bavarian lab for supercomputing) is recommended. 
+- New steering members. LRZ (Bavarian lab for supercomputing) is recommended.
 - Upcoming conferences. European Quantum Technologies Computing in October.
 
 ## Follow-ups / Action items
