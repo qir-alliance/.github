@@ -22,5 +22,6 @@ scope of the hybrid computing projects at the Leibniz Supercomputing Centre.
 the adoption of QIR by hardware companies.
 
 ## Key decisions (all voted unanimously)
-- The Leibniz Supercomputing Centre (LRZ) voted as the new Steering Committee 
+
+- The Leibniz Supercomputing Centre (LRZ) voted as the new Steering Committee
 member (Motion passed with five votes and quorum).
