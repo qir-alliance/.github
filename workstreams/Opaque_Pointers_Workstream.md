@@ -54,11 +54,18 @@ whether the new representation would also allow to support qudits in the future.
 
 The expected outcome of the workstream is a pull request to update the 0.1
 version of the QIR specification with the necessary changes to be able to emit
-the full QIR and all its profile using LLVM 16.
+the full QIR and all its profile using LLVM 17.
+Additionally, the working group should outline a migration plan/recommendation 
+for front- and backend implementers to migrate from supporting the current 0.1 version 
+of the spec to the new version supporting LLVM 17. This migration plan could for
+example involve the creation of helper scripts and tools that would convert a 
+0.1 compliant representation to the new representation and vice versa.
 
 ## Future Work (Out of Scope)
 
-Migration plan for shared components?
+We look for a recommendation by the working group whether 
+adding support for qudits and non-binary measurement results should 
+be discussed and fleshed out by this workstream, or deferred to a separate one.
 
 ## Working Group & Getting Involved
 
