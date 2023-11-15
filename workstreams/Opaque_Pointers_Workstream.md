@@ -10,8 +10,8 @@ presentation](https://llvm.org/devmtg/2022-04-03/slides/keynote.Opaque.Pointers.
 give a brief overview.
 
 The QIR specification currently makes use of typed pointers to represent qubit
-values and result values. While in LLVM 15, support for these types can still be
-enabled, an update to LLVM 16 requires us to change this representation.
+values and result values. While in LLVM 16, support for these types can still be
+enabled, an update to LLVM 17 requires us to change this representation.
 
 The goal of this workstream is hence to update the QIR specification to support
 newer versions of LLVM, and to document what LLVM versions can be used to
