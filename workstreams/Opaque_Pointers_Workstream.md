@@ -54,7 +54,7 @@ whether the new representation would also allow to support qudits in the future.
 
 The expected outcome of the workstream is a pull request to update the 0.1
 version of the QIR specification with the necessary changes to be able to emit
-the full QIR and all its profile using LLVM 17.
+the full QIR and all its profiles using LLVM 17.
 Additionally, the working group should outline a migration plan/recommendation 
 for front- and backend implementers to migrate from supporting the current 0.1 version 
 of the spec to the new version supporting LLVM 17. This migration plan could for
