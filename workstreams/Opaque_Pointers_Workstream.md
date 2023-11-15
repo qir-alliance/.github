@@ -32,7 +32,7 @@ specification they support. This can pose challenges for maintaining a
 state-of-the art frontend.
 
 As part of this workstream, we hence specifically propose to update the required
-LLVM version for the next version of the QIR specification to LLVM 16.
+LLVM version for the next version of the QIR specification to LLVM 17.
 
 ## Dependencies & Related Projects
 
